@@ -63,12 +63,12 @@ The actual data processing is done offline with a python script that wraps sever
 | Zea mays | Poaceae | Poales | No |
 
 
-[1]: http://http://plaza.psb.ugent.be/
+[1]: http://plaza.psb.ugent.be/
 [2]: http://chibba.agtec.uga.edu/duplication/
-[3]: http://http://d3js.org/
+[3]: http://d3js.org/
 [4]: http://jekyllrb.com/
 [5]: http://jquery.com/
-[6]: http://http://getbootstrap.com/
+[6]: http://getbootstrap.com/
 [7]: http://micans.org/mcl/index.html
 [8]: http://mafft.cbrc.jp/alignment/software/
 [9]: http://www.microbesonline.org/fasttree/
