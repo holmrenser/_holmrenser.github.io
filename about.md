@@ -18,12 +18,12 @@ Apart from searching for candidate genes, this site is a useful tool for visuali
 
 ###Data sources
 
-* For the gene family identification I use data from PLAZA  
-* For the Synteny information I use data from PGDD  
+* For the gene family identification I use data from [PLAZA][1]  
+* For the Synteny information I use data from [PGDD][2]  
 
 ###Tools:
-For visualization this site relies heavily on D3.js. Content management is done with Jekyll. jQuery and Bootstrap make my life easy in terms of javascript and css resepectively.
-The actual data processing is done offline with a python script that wraps several other tools: MCL for network clustering, mafft for multiple sequence alignment and FastTree for phylogenetic reconstruction.
+For visualization this site relies heavily on [D3.js][3]. Content management is done with [Jekyll][4]. [jQuery][5] and [Bootstrap][6] make my life easy in terms of javascript and css resepectively.
+The actual data processing is done offline with a python script that wraps several other tools: [MCL][7] for network clustering, [mafft][8] for multiple sequence alignment and [FastTree][9] for phylogenetic reconstruction.
 
 ###Wishlist
 
@@ -33,7 +33,7 @@ The actual data processing is done offline with a python script that wraps sever
 * Pre-render most visualization to improve load-time  
 * A search function  
 * Blast your favourite gene to the database  
-* All of the above will probably lead to an implementation in node.js
+* All of the above will probably lead to an implementation in [node.js][10]
 
 ###Taxon sampling
 
@@ -60,5 +60,16 @@ The actual data processing is done offline with a python script that wraps sever
 | Theobroma cacao | Malvaceae | Malvales | No |
 | Zea mays | Poaceae | Poales | No |
 
+
+[1]: http://http://plaza.psb.ugent.be/
+[2]: http://chibba.agtec.uga.edu/duplication/
+[3]: http://http://d3js.org/
+[4]: http://jekyllrb.com/
+[5]: http://jquery.com/
+[6]: http://http://getbootstrap.com/
+[7]: http://micans.org/mcl/index.html
+[8]: http://mafft.cbrc.jp/alignment/software/
+[9]: http://www.microbesonline.org/fasttree/
+[10]: http://nodejs.org/
 
 
