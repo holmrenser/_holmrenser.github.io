@@ -39,14 +39,26 @@ The actual data processing is done offline with a python script that wraps sever
 
 
 | Species | Family | Order | rhizobium symbiosis |
-| ------- | ------ | ----- | --- | 
- | Amborella trichopoda | Amborellaceae | Magnoliales | No | 
- | Arabidopsis thaliana | Brassicaceae | Brassicales | No | 
- | Arabidopsis lyrata | Brassicaceae | Brassicales | No | 
- | Brassica rapa | Brassicaceae | Brassicales | No | 
-
-
-
+| ------- | ------ | ----- | :---: | 
+| Amborella trichopoda | Amborellaceae | Magnoliales | No | 
+| Arabidopsis thaliana | Brassicaceae | Brassicales | No | 
+| Arabidopsis lyrata | Brassicaceae | Brassicales | No | 
+| Brassica rapa | Brassicaceae | Brassicales | No | 
+| Carica papaya | Caricaceae | Brassicales | No |
+| Chlamydomonas reinhardtii | x | x | x |
+| Fragaria vesca | Rosaceae | Rosales | No |
+| Glycine max | Fabaceae | Fabales | Yes |
+| Gossipium raimondii | Malvaceae | Malvales | No |
+| Lotus japonicum | Fabaceae | Fabales | Yes |
+| Medicago truncatula | Fabaceae | Fabales | Yes |
+| Oryza sativa | Poaceae | Poales | No |
+| Phaseolus vulgaris | Fabaceae | Fabales | Yes |
+| Populus trichocarpa | Salicaceae | Malpighiales | No |
+| Ricinus communis | Euphorbiaceae | Malpighiales | No |
+| Solanum lycopersicum | Solanaceae | Solanales | No |
+| Solanum tuberosum | Solanaceae | Solanales | No |
+| Theobroma cacao | Malvaceae | Malvales | No |
+| Zea mays | Poaceae | Poales | No |
 
 
 
