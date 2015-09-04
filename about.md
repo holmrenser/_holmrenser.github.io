@@ -17,20 +17,22 @@ More importantly I can identify events like ancient transpositions or duplicatio
 Apart from searching for candidate genes, this site is a useful tool for visualizing very large gene families due to its interactive nature.
 
 Data sources:
-*For the gene family identification I use data from PLAZA  
-*For the Synteny information I use data from PGDD  
+
+* For the gene family identification I use data from PLAZA  
+* For the Synteny information I use data from PGDD  
 
 Tools:
 For visualization this site relies heavily on D3.js. Content management is done with Jekyll. jQuery and Bootstrap make my life easy in terms of javascript and css resepectively.
 The actual data processing is done offline with a python script that wraps several other tools: MCL for network clustering, mafft for multiple sequence alignment and FastTree for phylogenetic reconstruction.
 
 Wishlist:
-*An algorithm to identify orthologs, paralogs, duplication, speciation and translocation. All of this while taking into account the species tree.  
-*A database to be able to scale to genome-wide studies.  
-*Expand the taxon sampling (This would require the identification of gene families and synteny from scratch, which takes a lot of time)  
-*Pre-render most visualization to improve load-time  
-*A search function  
-*Blast your favourite gene to the database  
-*All of the above will probably force me to move to an implementation in node.js, which is about time.  
+
+* An algorithm to identify orthologs, paralogs, duplication, speciation and translocation. All of this while taking into account the species tree.  
+* A database to be able to scale to genome-wide studies.  
+* Expand the taxon sampling (This would require the identification of gene families and synteny from scratch, which takes a lot of time)  
+* Pre-render most visualization to improve load-time  
+* A search function  
+* Blast your favourite gene to the database  
+* All of the above will probably force me to move to an implementation in node.js, which is about time.   
 
 
