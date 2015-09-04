@@ -1,0 +1,131 @@
+---
+layout: default
+---
+<div class="container">
+	<p id="info"> Nodes are genes, syntenic genes are connected, colors are species. </p>
+    <div id="controls" class="controls">
+        <div id="selecters" class="selecters">
+            <div id="gene_selection" class="control">
+                <label for="gene_select">
+                    <h3> Gene family </h3>
+                </label>
+                <select id="gene_select" class="form-control">
+                    {% for g in site.data.index %}
+                        <option value="{{ site.baseurl }}/json/{{ g.file }}">{{ g.name }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div id="vis_selection" class="control">
+                <label for="vis_select">
+                    <h3> Visualization </h3>
+                </label>
+                <select id="vis_select" class="form-control">
+                    <option value="network">Network</option>
+                    <option value="arc">Arcdiagram</option>
+                    <option value="tree">Tree</option>
+                </select>
+            </div>
+        </div>
+        <div class="collapsible" id="controlselect">
+            <h3>Controls</h3>
+            <a href="#" class="stats-icon">
+                <svg viewBox="0 0 18 15">
+                    <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+                    <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+                    <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+                </svg>
+            </a>
+            <div id="buttons" class="buttons subcollapsible hide">
+                <div id="zoom_select" class="control">
+                    <h4>Mouse</h4>
+                    <div id="button" class="button">
+                        <a id="zoom" class="right active">Zoom</a>
+                        <a id="select" class="left">Drag</a>
+                    </div>
+                </div>
+                <div id="color_select" class="control">
+                    <h4>Color</h4>
+                    <div id="button" class="button">
+                    <a id="color" class="right active">Species</a>
+                    <a id="altcolor" class="left">NFC</a>
+                        </div>
+                </div>
+                <div id="force_select" class="control">
+                    <h4>Force</h4>
+                    <div id="button" class="button">
+                    <a id="start" class="right active">Start</a>
+                    <a id="stop" class="left">Stop</a>
+                        </div>
+                </div>
+                <div id="treezoom" class="control">
+                    <h4>Zoom</h4>
+                    <div id="button" class="button">
+                    <a id="treezoom_plus" class="right treezoom" data-value="+1">  +  </a>
+                    <a id="treezoom_min" class="middle treezoom" data-value="-1">  -  </a>
+                    <a id="target" class="left treezoom" data-value="target">Target</a>
+                        </div>
+                </div>
+            </div>
+            <div id="sliders" class="sliders subcollapsible hide">
+                <div id="attraction">
+                    <label for="attraction_select_id">
+                        <h4>Attraction</h4>
+                    </label>
+                    <div id="attraction_select" class="range">
+                        <input id="attraction_select_id" type="range" min=0 max=100 value=30 onChange="attraction_value.value=value">
+                        <output id="attraction_value">30</output>
+                    </div>
+                </div>
+                <div id="mcl">
+                    <label for="mcl_select_id">
+                        <h4>MCL</h4>
+                    </label>
+                    <div id="mcl_select" class="range">
+                        <input id="mcl_select_id" type="range" min=0 max=8.0 step=0.4 value=1.2 onChange="mcl_value.value=value">
+                        <output id="mcl_value">1.2</output>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="collapsible" id="stats">
+            <h3>Statistics</h3>
+            <a href="#" class="stats-icon">
+                <svg viewBox="0 0 18 15">
+                    <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+                    <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+                    <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+                </svg>
+            </a>
+            <div class="subcollapsible hide" id="scatter"></div>
+            <div class="subcollapsible hide" id="numbers"></div>
+        </div>
+        <div class="collapsible" id="legend">
+            <h3>Legend</h3>
+            <a href="#" class="stats-icon">
+                <svg viewBox="0 0 18 15">
+                    <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+                    <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+                    <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+                </svg>
+            </a>
+            <div class="subcollapsible" id="legend_data"></div>
+        </div>
+    </div>
+    <div class="vis" id="vis"></div>
+</div>
+
+
+
+<!--
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+</div>
+-->

@@ -1,0 +1,2439 @@
+{
+ "nodes": [
+  {
+   "id": "Phpat.021G050600", 
+   "clusters": {
+    "0": 0, 
+    "4.8": 0, 
+    "2.0": 0, 
+    "6.0": 0, 
+    "4.0": 0, 
+    "0.8": 0, 
+    "1.6": 0, 
+    "3.2": 0, 
+    "2.4": 0, 
+    "1.2": 0, 
+    "0.4": 0, 
+    "6.8": 0, 
+    "7.2": 0, 
+    "8.0": 0, 
+    "7.6": 0, 
+    "3.6": 0, 
+    "6.4": 0, 
+    "5.2": 0, 
+    "2.8": 0, 
+    "5.6": 0, 
+    "4.4": 0
+   }, 
+   "species": "ph", 
+   "plaza_name": "PP00132G00540", 
+   "anchor": 0
+  }, 
+  {
+   "id": "AT2G05120", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 4, 
+    "2.0": 4, 
+    "6.0": 4, 
+    "4.0": 4, 
+    "0.8": 1, 
+    "1.6": 4, 
+    "3.2": 4, 
+    "2.4": 4, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 4, 
+    "7.2": 4, 
+    "8.0": 4, 
+    "7.6": 4, 
+    "3.6": 4, 
+    "6.4": 4, 
+    "5.2": 4, 
+    "2.8": 4, 
+    "5.6": 4, 
+    "4.4": 4
+   }, 
+   "species": "at", 
+   "plaza_name": "AT2G05120", 
+   "anchor": 0
+  }, 
+  {
+   "id": "GRMZM2G058374", 
+   "clusters": {
+    "0": 2, 
+    "4.8": 5, 
+    "2.0": 5, 
+    "6.0": 6, 
+    "4.0": 5, 
+    "0.8": 2, 
+    "1.6": 5, 
+    "3.2": 5, 
+    "2.4": 5, 
+    "1.2": 2, 
+    "0.4": 2, 
+    "6.8": 6, 
+    "7.2": 6, 
+    "8.0": 6, 
+    "7.6": 6, 
+    "3.6": 5, 
+    "6.4": 6, 
+    "5.2": 6, 
+    "2.8": 5, 
+    "5.6": 6, 
+    "4.4": 5
+   }, 
+   "species": "zm", 
+   "plaza_name": "ZM09G25500", 
+   "anchor": 0
+  }, 
+  {
+   "id": "Potri.002G217700", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 1, 
+    "2.0": 1, 
+    "6.0": 3, 
+    "4.0": 1, 
+    "0.8": 1, 
+    "1.6": 2, 
+    "3.2": 1, 
+    "2.4": 1, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 3, 
+    "7.2": 3, 
+    "8.0": 3, 
+    "7.6": 3, 
+    "3.6": 1, 
+    "6.4": 3, 
+    "5.2": 3, 
+    "2.8": 1, 
+    "5.6": 3, 
+    "4.4": 1
+   }, 
+   "species": "pt", 
+   "plaza_name": "PT02G21770", 
+   "anchor": 0
+  }, 
+  {
+   "id": "evm.TU.supercontig_211.10", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 1, 
+    "2.0": 1, 
+    "6.0": 3, 
+    "4.0": 1, 
+    "0.8": 1, 
+    "1.6": 2, 
+    "3.2": 1, 
+    "2.4": 1, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 3, 
+    "7.2": 3, 
+    "8.0": 3, 
+    "7.6": 3, 
+    "3.6": 1, 
+    "6.4": 3, 
+    "5.2": 3, 
+    "2.8": 1, 
+    "5.6": 3, 
+    "4.4": 1
+   }, 
+   "species": "cp", 
+   "plaza_name": "CP00211G00100", 
+   "anchor": 0
+  }, 
+  {
+   "id": "Thecc1EG002334", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 1, 
+    "2.0": 1, 
+    "6.0": 5, 
+    "4.0": 1, 
+    "0.8": 1, 
+    "1.6": 2, 
+    "3.2": 1, 
+    "2.4": 1, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 5, 
+    "7.2": 5, 
+    "8.0": 5, 
+    "7.6": 5, 
+    "3.6": 1, 
+    "6.4": 5, 
+    "5.2": 5, 
+    "2.8": 1, 
+    "5.6": 5, 
+    "4.4": 1
+   }, 
+   "species": "ta", 
+   "plaza_name": "TC0001G18620", 
+   "anchor": 0
+  }, 
+  {
+   "id": "LOC_Os03g12450", 
+   "clusters": {
+    "0": 2, 
+    "4.8": 5, 
+    "2.0": 5, 
+    "6.0": 6, 
+    "4.0": 5, 
+    "0.8": 2, 
+    "1.6": 5, 
+    "3.2": 5, 
+    "2.4": 5, 
+    "1.2": 2, 
+    "0.4": 2, 
+    "6.8": 6, 
+    "7.2": 6, 
+    "8.0": 6, 
+    "7.6": 6, 
+    "3.6": 5, 
+    "6.4": 6, 
+    "5.2": 6, 
+    "2.8": 5, 
+    "5.6": 6, 
+    "4.4": 5
+   }, 
+   "species": "os", 
+   "plaza_name": "OS03G12450", 
+   "anchor": 0
+  }, 
+  {
+   "id": "16058853", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 4, 
+    "2.0": 4, 
+    "6.0": 4, 
+    "4.0": 4, 
+    "0.8": 1, 
+    "1.6": 4, 
+    "3.2": 4, 
+    "2.4": 4, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 4, 
+    "7.2": 4, 
+    "8.0": 4, 
+    "7.6": 4, 
+    "3.6": 4, 
+    "6.4": 4, 
+    "5.2": 4, 
+    "2.8": 4, 
+    "5.6": 4, 
+    "4.4": 4
+   }, 
+   "species": "al", 
+   "plaza_name": "AL3G30870", 
+   "anchor": 0
+  }, 
+  {
+   "id": "evm.TU.supercontig_211.8", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 1, 
+    "2.0": 1, 
+    "6.0": 5, 
+    "4.0": 1, 
+    "0.8": 1, 
+    "1.6": 1, 
+    "3.2": 1, 
+    "2.4": 1, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 5, 
+    "7.2": 5, 
+    "8.0": 5, 
+    "7.6": 5, 
+    "3.6": 1, 
+    "6.4": 5, 
+    "5.2": 5, 
+    "2.8": 1, 
+    "5.6": 5, 
+    "4.4": 1
+   }, 
+   "species": "cp", 
+   "plaza_name": "CP00211G00080", 
+   "anchor": 0
+  }, 
+  {
+   "id": "GRMZM2G358877", 
+   "clusters": {
+    "0": 0, 
+    "4.8": 0, 
+    "2.0": 0, 
+    "6.0": 0, 
+    "4.0": 0, 
+    "0.8": 0, 
+    "1.6": 0, 
+    "3.2": 0, 
+    "2.4": 0, 
+    "1.2": 0, 
+    "0.4": 0, 
+    "6.8": 0, 
+    "7.2": 0, 
+    "8.0": 0, 
+    "7.6": 0, 
+    "3.6": 0, 
+    "6.4": 0, 
+    "5.2": 0, 
+    "2.8": 0, 
+    "5.6": 0, 
+    "4.4": 0
+   }, 
+   "species": "zm", 
+   "plaza_name": "ZM09G25510", 
+   "anchor": 0
+  }, 
+  {
+   "id": "Brara.C04036", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 4, 
+    "2.0": 4, 
+    "6.0": 4, 
+    "4.0": 4, 
+    "0.8": 1, 
+    "1.6": 4, 
+    "3.2": 4, 
+    "2.4": 4, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 4, 
+    "7.2": 4, 
+    "8.0": 4, 
+    "7.6": 4, 
+    "3.6": 4, 
+    "6.4": 4, 
+    "5.2": 4, 
+    "2.8": 4, 
+    "5.6": 4, 
+    "4.4": 4
+   }, 
+   "species": "br", 
+   "plaza_name": "BR03G38720", 
+   "anchor": 0
+  }, 
+  {
+   "id": "Gorai.001G221100", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 1, 
+    "2.0": 1, 
+    "6.0": 5, 
+    "4.0": 1, 
+    "0.8": 1, 
+    "1.6": 2, 
+    "3.2": 1, 
+    "2.4": 1, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 5, 
+    "7.2": 5, 
+    "8.0": 5, 
+    "7.6": 5, 
+    "3.6": 1, 
+    "6.4": 5, 
+    "5.2": 5, 
+    "2.8": 1, 
+    "5.6": 5, 
+    "4.4": 1
+   }, 
+   "species": "gr", 
+   "plaza_name": "GR01G22110", 
+   "anchor": 0
+  }, 
+  {
+   "id": "Solyc07g047860.2", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 3, 
+    "2.0": 3, 
+    "6.0": 2, 
+    "4.0": 3, 
+    "0.8": 1, 
+    "1.6": 3, 
+    "3.2": 3, 
+    "2.4": 3, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 2, 
+    "7.2": 2, 
+    "8.0": 2, 
+    "7.6": 2, 
+    "3.6": 3, 
+    "6.4": 2, 
+    "5.2": 2, 
+    "2.8": 3, 
+    "5.6": 2, 
+    "4.4": 3
+   }, 
+   "species": "sl", 
+   "plaza_name": "SL07G047860", 
+   "anchor": 0
+  }, 
+  {
+   "id": "mrna21604", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 2, 
+    "2.0": 2, 
+    "6.0": 1, 
+    "4.0": 2, 
+    "0.8": 1, 
+    "1.6": 1, 
+    "3.2": 2, 
+    "2.4": 2, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 1, 
+    "7.2": 1, 
+    "8.0": 1, 
+    "7.6": 1, 
+    "3.6": 2, 
+    "6.4": 1, 
+    "5.2": 1, 
+    "2.8": 2, 
+    "5.6": 1, 
+    "4.4": 2
+   }, 
+   "species": "fv", 
+   "plaza_name": "PPE_003G18160", 
+   "anchor": 0
+  }, 
+  {
+   "id": "Medtr5g097260", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 2, 
+    "2.0": 2, 
+    "6.0": 1, 
+    "4.0": 2, 
+    "0.8": 1, 
+    "1.6": 1, 
+    "3.2": 2, 
+    "2.4": 2, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 1, 
+    "7.2": 1, 
+    "8.0": 1, 
+    "7.6": 1, 
+    "3.6": 2, 
+    "6.4": 1, 
+    "5.2": 1, 
+    "2.8": 2, 
+    "5.6": 1, 
+    "4.4": 2
+   }, 
+   "species": "mt", 
+   "plaza_name": "MT5G097260", 
+   "anchor": 0
+  }, 
+  {
+   "id": "MDP0000132849", 
+   "clusters": {
+    "0": 0, 
+    "4.8": 0, 
+    "2.0": 0, 
+    "6.0": 0, 
+    "4.0": 0, 
+    "0.8": 0, 
+    "1.6": 0, 
+    "3.2": 0, 
+    "2.4": 0, 
+    "1.2": 0, 
+    "0.4": 0, 
+    "6.8": 0, 
+    "7.2": 0, 
+    "8.0": 0, 
+    "7.6": 0, 
+    "3.6": 0, 
+    "6.4": 0, 
+    "5.2": 0, 
+    "2.8": 0, 
+    "5.6": 0, 
+    "4.4": 0
+   }, 
+   "species": "md", 
+   "plaza_name": "MD00G483540", 
+   "anchor": 0
+  }, 
+  {
+   "id": "Glyma.02G305200", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 2, 
+    "2.0": 2, 
+    "6.0": 1, 
+    "4.0": 2, 
+    "0.8": 1, 
+    "1.6": 1, 
+    "3.2": 2, 
+    "2.4": 2, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 1, 
+    "7.2": 1, 
+    "8.0": 1, 
+    "7.6": 1, 
+    "3.6": 2, 
+    "6.4": 1, 
+    "5.2": 1, 
+    "2.8": 2, 
+    "5.6": 1, 
+    "4.4": 2
+   }, 
+   "species": "gm", 
+   "plaza_name": "GM02G47530", 
+   "anchor": 0
+  }, 
+  {
+   "id": "Glyma.14G008200", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 2, 
+    "2.0": 2, 
+    "6.0": 1, 
+    "4.0": 2, 
+    "0.8": 1, 
+    "1.6": 1, 
+    "3.2": 2, 
+    "2.4": 2, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 1, 
+    "7.2": 1, 
+    "8.0": 1, 
+    "7.6": 1, 
+    "3.6": 2, 
+    "6.4": 1, 
+    "5.2": 1, 
+    "2.8": 2, 
+    "5.6": 1, 
+    "4.4": 2
+   }, 
+   "species": "gm", 
+   "plaza_name": "GM14G01160", 
+   "anchor": 0
+  }, 
+  {
+   "id": "Potri.002G221300", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 1, 
+    "2.0": 1, 
+    "6.0": 3, 
+    "4.0": 1, 
+    "0.8": 1, 
+    "1.6": 2, 
+    "3.2": 1, 
+    "2.4": 1, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 3, 
+    "7.2": 3, 
+    "8.0": 3, 
+    "7.6": 3, 
+    "3.6": 1, 
+    "6.4": 3, 
+    "5.2": 3, 
+    "2.8": 1, 
+    "5.6": 3, 
+    "4.4": 1
+   }, 
+   "species": "pt", 
+   "plaza_name": "PT02G22130", 
+   "anchor": 0
+  }, 
+  {
+   "id": "chr2.CM0191.150.nc", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 2, 
+    "2.0": 2, 
+    "6.0": 1, 
+    "4.0": 2, 
+    "0.8": 1, 
+    "1.6": 1, 
+    "3.2": 2, 
+    "2.4": 2, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 1, 
+    "7.2": 1, 
+    "8.0": 1, 
+    "7.6": 1, 
+    "3.6": 2, 
+    "6.4": 1, 
+    "5.2": 1, 
+    "2.8": 2, 
+    "5.6": 1, 
+    "4.4": 2
+   }, 
+   "species": "lj", 
+   "plaza_name": "LJ2G049510", 
+   "anchor": 1
+  }, 
+  {
+   "id": "Potri.014G165200", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 1, 
+    "2.0": 1, 
+    "6.0": 3, 
+    "4.0": 1, 
+    "0.8": 1, 
+    "1.6": 2, 
+    "3.2": 1, 
+    "2.4": 1, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 3, 
+    "7.2": 3, 
+    "8.0": 3, 
+    "7.6": 3, 
+    "3.6": 1, 
+    "6.4": 3, 
+    "5.2": 3, 
+    "2.8": 1, 
+    "5.6": 3, 
+    "4.4": 1
+   }, 
+   "species": "pt", 
+   "plaza_name": "PT14G16520", 
+   "anchor": 0
+  }, 
+  {
+   "id": "scaffold00088.123", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 3, 
+    "2.0": 3, 
+    "6.0": 2, 
+    "4.0": 3, 
+    "0.8": 1, 
+    "1.6": 3, 
+    "3.2": 3, 
+    "2.4": 3, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 2, 
+    "7.2": 2, 
+    "8.0": 2, 
+    "7.6": 2, 
+    "3.6": 3, 
+    "6.4": 2, 
+    "5.2": 2, 
+    "2.8": 3, 
+    "5.6": 2, 
+    "4.4": 3
+   }, 
+   "species": "ar", 
+   "plaza_name": "ATR_00088G01210", 
+   "anchor": 0
+  }, 
+  {
+   "id": "GSVIVT01030051001", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 3, 
+    "2.0": 3, 
+    "6.0": 2, 
+    "4.0": 3, 
+    "0.8": 1, 
+    "1.6": 3, 
+    "3.2": 3, 
+    "2.4": 3, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 2, 
+    "7.2": 2, 
+    "8.0": 2, 
+    "7.6": 2, 
+    "3.6": 3, 
+    "6.4": 2, 
+    "5.2": 2, 
+    "2.8": 3, 
+    "5.6": 2, 
+    "4.4": 3
+   }, 
+   "species": "vv", 
+   "plaza_name": "VV12G09410", 
+   "anchor": 0
+  }, 
+  {
+   "id": "PGSC0003DMC400010909", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 3, 
+    "2.0": 3, 
+    "6.0": 2, 
+    "4.0": 3, 
+    "0.8": 1, 
+    "1.6": 3, 
+    "3.2": 3, 
+    "2.4": 3, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 2, 
+    "7.2": 2, 
+    "8.0": 2, 
+    "7.6": 2, 
+    "3.6": 3, 
+    "6.4": 2, 
+    "5.2": 2, 
+    "2.8": 3, 
+    "5.6": 2, 
+    "4.4": 3
+   }, 
+   "species": "st", 
+   "plaza_name": "ST07G017990", 
+   "anchor": 0
+  }
+ ], 
+ "tree": "(Phpat.021G050600:0.479625,(scaffold00088.123:0.22479,((GRMZM2G358877:0.15131,(LOC_Os03g12450:0.10963,GRMZM2G058374:0.13208)0.756:0.03595)1:0.44103,((GSVIVT01030051001:0.17091,(Solyc07g047860.2:0.03218,PGSC0003DMC400010909:0.01023)1:0.2748)0.208:0.02464,(((mrna21604:0.10128,MDP0000132849:0.09051)0.997:0.11579,((Glyma.02G305200:0.02871,Glyma.14G008200:0.0192)1:0.06396,(chr2.CM0191.150.nc:0.09254,Medtr5g097260:0.124)0.95:0.01732)1:0.22282)0.998:0.05335,(((Gorai.001G221100:0.09147,Thecc1EG002334:0.06876)1:0.09433,(evm.TU.supercontig_211.10:0.21592,(Brara.C04036:0.09393,(16058853:0.0178,AT2G05120:0.0285)0.997:0.04795)1:0.35875)0.663:0.02198)0.308:0.01651,((Potri.014G165200:0.31062,(Potri.002G221300:0.00283,Potri.002G217700:0.00339)0.693:0.05391)0.956:0.14764,evm.TU.supercontig_211.8:0.26681)0.795:0.02332)0.959:0.02678)0.96:0.02827)0.999:0.12264)1:0.16395)1:0.479625);", 
+ "links": [
+  {
+   "distance": 1.7745800000000003, 
+   "target": "AT2G05120", 
+   "source": "Phpat.021G050600"
+  }, 
+  {
+   "distance": 1.7322600000000001, 
+   "target": "GRMZM2G058374", 
+   "source": "Phpat.021G050600"
+  }, 
+  {
+   "distance": 1.52915, 
+   "target": "Potri.002G217700", 
+   "source": "Phpat.021G050600"
+  }, 
+  {
+   "distance": 1.71554, 
+   "target": "GRMZM2G358877", 
+   "source": "Phpat.021G050600"
+  }, 
+  {
+   "distance": 1.48049, 
+   "target": "Thecc1EG002334", 
+   "source": "Phpat.021G050600"
+  }, 
+  {
+   "distance": 1.70981, 
+   "target": "LOC_Os03g12450", 
+   "source": "Phpat.021G050600"
+  }, 
+  {
+   "distance": 1.7638800000000001, 
+   "target": "16058853", 
+   "source": "Phpat.021G050600"
+  }, 
+  {
+   "distance": 1.5910199999999999, 
+   "target": "evm.TU.supercontig_211.8", 
+   "source": "Phpat.021G050600"
+  }, 
+  {
+   "distance": 1.5553000000000001, 
+   "target": "evm.TU.supercontig_211.10", 
+   "source": "Phpat.021G050600"
+  }, 
+  {
+   "distance": 1.7920600000000002, 
+   "target": "Brara.C04036", 
+   "source": "Phpat.021G050600"
+  }, 
+  {
+   "distance": 1.5032, 
+   "target": "Gorai.001G221100", 
+   "source": "Phpat.021G050600"
+  }, 
+  {
+   "distance": 1.5774599999999999, 
+   "target": "Solyc07g047860.2", 
+   "source": "Phpat.021G050600"
+  }, 
+  {
+   "distance": 1.54453, 
+   "target": "mrna21604", 
+   "source": "Phpat.021G050600"
+  }, 
+  {
+   "distance": 1.6916000000000002, 
+   "target": "Medtr5g097260", 
+   "source": "Phpat.021G050600"
+  }, 
+  {
+   "distance": 1.53376, 
+   "target": "MDP0000132849", 
+   "source": "Phpat.021G050600"
+  }, 
+  {
+   "distance": 1.64295, 
+   "target": "Glyma.02G305200", 
+   "source": "Phpat.021G050600"
+  }, 
+  {
+   "distance": 1.63344, 
+   "target": "Glyma.14G008200", 
+   "source": "Phpat.021G050600"
+  }, 
+  {
+   "distance": 1.52859, 
+   "target": "Potri.002G221300", 
+   "source": "Phpat.021G050600"
+  }, 
+  {
+   "distance": 1.6601400000000002, 
+   "target": "chr2.CM0191.150.nc", 
+   "source": "Phpat.021G050600"
+  }, 
+  {
+   "distance": 1.7824700000000002, 
+   "target": "Potri.014G165200", 
+   "source": "Phpat.021G050600"
+  }, 
+  {
+   "distance": 1.18404, 
+   "target": "scaffold00088.123", 
+   "source": "Phpat.021G050600"
+  }, 
+  {
+   "distance": 1.4413900000000002, 
+   "target": "GSVIVT01030051001", 
+   "source": "Phpat.021G050600"
+  }, 
+  {
+   "distance": 1.55551, 
+   "target": "PGSC0003DMC400010909", 
+   "source": "Phpat.021G050600"
+  }, 
+  {
+   "distance": 1.2604400000000002, 
+   "target": "GRMZM2G058374", 
+   "source": "AT2G05120"
+  }, 
+  {
+   "distance": 0.7019500000000001, 
+   "target": "Potri.002G217700", 
+   "source": "AT2G05120"
+  }, 
+  {
+   "distance": 0.65112, 
+   "target": "evm.TU.supercontig_211.10", 
+   "source": "AT2G05120"
+  }, 
+  {
+   "distance": 0.62027, 
+   "ka": "0.2536", 
+   "target": "Thecc1EG002334", 
+   "evalue": "0.0", 
+   "block_score": "520.0", 
+   "ks": "1.1265", 
+   "source": "AT2G05120"
+  }, 
+  {
+   "distance": 1.2379900000000001, 
+   "target": "LOC_Os03g12450", 
+   "source": "AT2G05120"
+  }, 
+  {
+   "distance": 0.0463, 
+   "ka": "0.0221", 
+   "target": "16058853", 
+   "evalue": "0.0", 
+   "block_score": "3942.0", 
+   "ks": "0.1211", 
+   "source": "AT2G05120"
+  }, 
+  {
+   "distance": 0.76382, 
+   "target": "evm.TU.supercontig_211.8", 
+   "source": "AT2G05120"
+  }, 
+  {
+   "distance": 1.2437200000000004, 
+   "target": "GRMZM2G358877", 
+   "source": "AT2G05120"
+  }, 
+  {
+   "distance": 0.17038, 
+   "ka": "0.0771", 
+   "target": "Brara.C04036", 
+   "evalue": "0.0", 
+   "block_score": "1241.0", 
+   "ks": "0.3586", 
+   "source": "AT2G05120"
+  }, 
+  {
+   "distance": 0.64298, 
+   "target": "Gorai.001G221100", 
+   "source": "AT2G05120"
+  }, 
+  {
+   "distance": 0.8603600000000001, 
+   "ka": "0.3247", 
+   "target": "Solyc07g047860.2", 
+   "evalue": "0.0", 
+   "block_score": "283.0", 
+   "ks": "1.5634", 
+   "source": "AT2G05120"
+  }, 
+  {
+   "distance": 0.7708900000000001, 
+   "ka": "0.2928", 
+   "target": "mrna21604", 
+   "evalue": "0.0", 
+   "block_score": "416.0", 
+   "ks": "1.2731", 
+   "source": "AT2G05120"
+  }, 
+  {
+   "distance": 0.9179600000000001, 
+   "ka": "0.3081", 
+   "target": "Medtr5g097260", 
+   "evalue": "0.0", 
+   "block_score": "240.0", 
+   "ks": "1.6594", 
+   "source": "AT2G05120"
+  }, 
+  {
+   "distance": 0.76012, 
+   "target": "MDP0000132849", 
+   "source": "AT2G05120"
+  }, 
+  {
+   "distance": 0.8693100000000001, 
+   "ka": "0.3182", 
+   "target": "Glyma.02G305200", 
+   "evalue": "0.0", 
+   "block_score": "297.0", 
+   "ks": "1.6295", 
+   "source": "AT2G05120"
+  }, 
+  {
+   "distance": 0.8598, 
+   "ka": "0.3185", 
+   "target": "Glyma.14G008200", 
+   "evalue": "0.0", 
+   "block_score": "298.0", 
+   "ks": "1.653", 
+   "source": "AT2G05120"
+  }, 
+  {
+   "distance": 0.7013900000000001, 
+   "ka": "0.2741", 
+   "target": "Potri.002G221300", 
+   "evalue": "0.0", 
+   "block_score": "267.0", 
+   "ks": "1.2635", 
+   "source": "AT2G05120"
+  }, 
+  {
+   "distance": 0.8865000000000001, 
+   "ka": "0.3187", 
+   "target": "chr2.CM0191.150.nc", 
+   "evalue": "0.0", 
+   "block_score": "287.0", 
+   "ks": "1.5641", 
+   "source": "AT2G05120"
+  }, 
+  {
+   "distance": 0.9552700000000001, 
+   "target": "Potri.014G165200", 
+   "source": "AT2G05120"
+  }, 
+  {
+   "distance": 1.0401200000000002, 
+   "target": "scaffold00088.123", 
+   "source": "AT2G05120"
+  }, 
+  {
+   "distance": 0.7242900000000001, 
+   "target": "GSVIVT01030051001", 
+   "source": "AT2G05120"
+  }, 
+  {
+   "distance": 0.8384100000000001, 
+   "ka": "0.3154", 
+   "target": "PGSC0003DMC400010909", 
+   "evalue": "0.0", 
+   "block_score": "217.0", 
+   "ks": "1.5769", 
+   "source": "AT2G05120"
+  }, 
+  {
+   "distance": 1.01501, 
+   "target": "Potri.002G217700", 
+   "source": "GRMZM2G058374"
+  }, 
+  {
+   "distance": 1.04116, 
+   "target": "evm.TU.supercontig_211.10", 
+   "source": "GRMZM2G058374"
+  }, 
+  {
+   "distance": 0.96635, 
+   "target": "Thecc1EG002334", 
+   "source": "GRMZM2G058374"
+  }, 
+  {
+   "distance": 0.24171, 
+   "ka": "0.1139", 
+   "target": "LOC_Os03g12450", 
+   "evalue": "0.0", 
+   "block_score": "14786.0", 
+   "ks": "0.6677", 
+   "source": "GRMZM2G058374"
+  }, 
+  {
+   "distance": 1.2497400000000003, 
+   "target": "16058853", 
+   "source": "GRMZM2G058374"
+  }, 
+  {
+   "distance": 1.07688, 
+   "target": "evm.TU.supercontig_211.8", 
+   "source": "GRMZM2G058374"
+  }, 
+  {
+   "distance": 0.31934, 
+   "target": "GRMZM2G358877", 
+   "source": "GRMZM2G058374"
+  }, 
+  {
+   "distance": 1.2779200000000002, 
+   "target": "Brara.C04036", 
+   "source": "GRMZM2G058374"
+  }, 
+  {
+   "distance": 0.9890599999999999, 
+   "target": "Gorai.001G221100", 
+   "source": "GRMZM2G058374"
+  }, 
+  {
+   "distance": 1.06332, 
+   "target": "Solyc07g047860.2", 
+   "source": "GRMZM2G058374"
+  }, 
+  {
+   "distance": 1.0303900000000001, 
+   "target": "mrna21604", 
+   "source": "GRMZM2G058374"
+  }, 
+  {
+   "distance": 1.17746, 
+   "target": "Medtr5g097260", 
+   "source": "GRMZM2G058374"
+  }, 
+  {
+   "distance": 1.01962, 
+   "target": "MDP0000132849", 
+   "source": "GRMZM2G058374"
+  }, 
+  {
+   "distance": 1.12881, 
+   "target": "Glyma.02G305200", 
+   "source": "GRMZM2G058374"
+  }, 
+  {
+   "distance": 1.1193, 
+   "target": "Glyma.14G008200", 
+   "source": "GRMZM2G058374"
+  }, 
+  {
+   "distance": 1.01445, 
+   "target": "Potri.002G221300", 
+   "source": "GRMZM2G058374"
+  }, 
+  {
+   "distance": 1.146, 
+   "target": "chr2.CM0191.150.nc", 
+   "source": "GRMZM2G058374"
+  }, 
+  {
+   "distance": 1.2683300000000002, 
+   "target": "Potri.014G165200", 
+   "source": "GRMZM2G058374"
+  }, 
+  {
+   "distance": 0.9978, 
+   "target": "scaffold00088.123", 
+   "source": "GRMZM2G058374"
+  }, 
+  {
+   "distance": 0.9272499999999999, 
+   "target": "GSVIVT01030051001", 
+   "source": "GRMZM2G058374"
+  }, 
+  {
+   "distance": 1.04137, 
+   "target": "PGSC0003DMC400010909", 
+   "source": "GRMZM2G058374"
+  }, 
+  {
+   "distance": 0.48267000000000004, 
+   "target": "evm.TU.supercontig_211.10", 
+   "source": "Potri.002G217700"
+  }, 
+  {
+   "distance": 0.40786, 
+   "target": "Thecc1EG002334", 
+   "source": "Potri.002G217700"
+  }, 
+  {
+   "distance": 0.99256, 
+   "target": "LOC_Os03g12450", 
+   "source": "Potri.002G217700"
+  }, 
+  {
+   "distance": 0.69125, 
+   "target": "16058853", 
+   "source": "Potri.002G217700"
+  }, 
+  {
+   "distance": 0.47175, 
+   "target": "evm.TU.supercontig_211.8", 
+   "source": "Potri.002G217700"
+  }, 
+  {
+   "distance": 0.99829, 
+   "target": "GRMZM2G358877", 
+   "source": "Potri.002G217700"
+  }, 
+  {
+   "distance": 0.71943, 
+   "target": "Brara.C04036", 
+   "source": "Potri.002G217700"
+  }, 
+  {
+   "distance": 0.43057, 
+   "ka": "0.1785", 
+   "target": "Gorai.001G221100", 
+   "evalue": "0.0", 
+   "block_score": "430.0", 
+   "ks": "0.7592", 
+   "source": "Potri.002G217700"
+  }, 
+  {
+   "distance": 0.61493, 
+   "target": "Solyc07g047860.2", 
+   "source": "Potri.002G217700"
+  }, 
+  {
+   "distance": 0.52546, 
+   "target": "mrna21604", 
+   "source": "Potri.002G217700"
+  }, 
+  {
+   "distance": 0.6725300000000001, 
+   "target": "Medtr5g097260", 
+   "source": "Potri.002G217700"
+  }, 
+  {
+   "distance": 0.51469, 
+   "target": "MDP0000132849", 
+   "source": "Potri.002G217700"
+  }, 
+  {
+   "distance": 0.62388, 
+   "target": "Glyma.02G305200", 
+   "source": "Potri.002G217700"
+  }, 
+  {
+   "distance": 0.6143700000000001, 
+   "target": "Glyma.14G008200", 
+   "source": "Potri.002G217700"
+  }, 
+  {
+   "distance": 0.00622, 
+   "ka": "0.0028", 
+   "target": "Potri.002G221300", 
+   "evalue": "0.0", 
+   "block_score": "304.0", 
+   "ks": "0.0156", 
+   "source": "Potri.002G217700"
+  }, 
+  {
+   "distance": 0.64107, 
+   "target": "chr2.CM0191.150.nc", 
+   "source": "Potri.002G217700"
+  }, 
+  {
+   "distance": 0.36792, 
+   "ka": "0.148", 
+   "target": "Potri.014G165200", 
+   "evalue": "2e-20", 
+   "block_score": "285.0", 
+   "ks": "0.2558", 
+   "source": "Potri.002G217700"
+  }, 
+  {
+   "distance": 0.79469, 
+   "target": "scaffold00088.123", 
+   "source": "Potri.002G217700"
+  }, 
+  {
+   "distance": 0.47886000000000006, 
+   "ka": "0.1771", 
+   "target": "GSVIVT01030051001", 
+   "evalue": "0.0", 
+   "block_score": "335.0", 
+   "ks": "0.7424", 
+   "source": "Potri.002G217700"
+  }, 
+  {
+   "distance": 0.5929800000000001, 
+   "target": "PGSC0003DMC400010909", 
+   "source": "Potri.002G217700"
+  }, 
+  {
+   "distance": 1.02444, 
+   "target": "GRMZM2G358877", 
+   "source": "evm.TU.supercontig_211.10"
+  }, 
+  {
+   "distance": 0.40099, 
+   "target": "Thecc1EG002334", 
+   "source": "evm.TU.supercontig_211.10"
+  }, 
+  {
+   "distance": 1.01871, 
+   "target": "LOC_Os03g12450", 
+   "source": "evm.TU.supercontig_211.10"
+  }, 
+  {
+   "distance": 0.64042, 
+   "target": "16058853", 
+   "source": "evm.TU.supercontig_211.10"
+  }, 
+  {
+   "distance": 0.54454, 
+   "target": "evm.TU.supercontig_211.8", 
+   "source": "evm.TU.supercontig_211.10"
+  }, 
+  {
+   "distance": 0.6686000000000001, 
+   "target": "Brara.C04036", 
+   "source": "evm.TU.supercontig_211.10"
+  }, 
+  {
+   "distance": 0.42369999999999997, 
+   "target": "Gorai.001G221100", 
+   "source": "evm.TU.supercontig_211.10"
+  }, 
+  {
+   "distance": 0.64108, 
+   "target": "Solyc07g047860.2", 
+   "source": "evm.TU.supercontig_211.10"
+  }, 
+  {
+   "distance": 0.55161, 
+   "target": "mrna21604", 
+   "source": "evm.TU.supercontig_211.10"
+  }, 
+  {
+   "distance": 0.6986800000000001, 
+   "target": "Medtr5g097260", 
+   "source": "evm.TU.supercontig_211.10"
+  }, 
+  {
+   "distance": 0.54084, 
+   "target": "MDP0000132849", 
+   "source": "evm.TU.supercontig_211.10"
+  }, 
+  {
+   "distance": 0.65003, 
+   "target": "Glyma.02G305200", 
+   "source": "evm.TU.supercontig_211.10"
+  }, 
+  {
+   "distance": 0.6405200000000001, 
+   "target": "Glyma.14G008200", 
+   "source": "evm.TU.supercontig_211.10"
+  }, 
+  {
+   "distance": 0.48211000000000004, 
+   "target": "Potri.002G221300", 
+   "source": "evm.TU.supercontig_211.10"
+  }, 
+  {
+   "distance": 0.66722, 
+   "target": "chr2.CM0191.150.nc", 
+   "source": "evm.TU.supercontig_211.10"
+  }, 
+  {
+   "distance": 0.73599, 
+   "ka": "0.4098", 
+   "target": "Potri.014G165200", 
+   "evalue": "2e-13", 
+   "block_score": "506.0", 
+   "ks": "0.8379", 
+   "source": "evm.TU.supercontig_211.10"
+  }, 
+  {
+   "distance": 0.82084, 
+   "target": "scaffold00088.123", 
+   "source": "evm.TU.supercontig_211.10"
+  }, 
+  {
+   "distance": 0.5050100000000001, 
+   "target": "GSVIVT01030051001", 
+   "source": "evm.TU.supercontig_211.10"
+  }, 
+  {
+   "distance": 0.6191300000000001, 
+   "target": "PGSC0003DMC400010909", 
+   "source": "evm.TU.supercontig_211.10"
+  }, 
+  {
+   "distance": 0.9439000000000001, 
+   "target": "LOC_Os03g12450", 
+   "source": "Thecc1EG002334"
+  }, 
+  {
+   "distance": 0.6095700000000001, 
+   "ka": "0.257", 
+   "target": "16058853", 
+   "evalue": "0.0", 
+   "block_score": "509.0", 
+   "ks": "1.1483", 
+   "source": "Thecc1EG002334"
+  }, 
+  {
+   "distance": 0.46973, 
+   "ka": "0.2226", 
+   "target": "evm.TU.supercontig_211.8", 
+   "evalue": "2e-137", 
+   "block_score": "538.0", 
+   "ks": "1.0575", 
+   "source": "Thecc1EG002334"
+  }, 
+  {
+   "distance": 0.9496300000000001, 
+   "target": "GRMZM2G358877", 
+   "source": "Thecc1EG002334"
+  }, 
+  {
+   "distance": 0.63775, 
+   "ka": "0.2668", 
+   "target": "Brara.C04036", 
+   "evalue": "0.0", 
+   "block_score": "486.0", 
+   "ks": "1.2766", 
+   "source": "Thecc1EG002334"
+  }, 
+  {
+   "distance": 0.16022999999999998, 
+   "ka": "0.0719", 
+   "target": "Gorai.001G221100", 
+   "evalue": "0.0", 
+   "block_score": "4717.0", 
+   "ks": "0.2801", 
+   "source": "Thecc1EG002334"
+  }, 
+  {
+   "distance": 0.56627, 
+   "ka": "0.2371", 
+   "target": "Solyc07g047860.2", 
+   "evalue": "0.0", 
+   "block_score": "342.0", 
+   "ks": "1.44", 
+   "source": "Thecc1EG002334"
+  }, 
+  {
+   "distance": 0.4768, 
+   "ka": "0.2036", 
+   "target": "mrna21604", 
+   "evalue": "0.0", 
+   "block_score": "657.0", 
+   "ks": "1.0632", 
+   "source": "Thecc1EG002334"
+  }, 
+  {
+   "distance": 0.62387, 
+   "ka": "0.2282", 
+   "target": "Medtr5g097260", 
+   "evalue": "0.0", 
+   "block_score": "610.0", 
+   "ks": "1.0552", 
+   "source": "Thecc1EG002334"
+  }, 
+  {
+   "distance": 0.46603000000000006, 
+   "target": "MDP0000132849", 
+   "source": "Thecc1EG002334"
+  }, 
+  {
+   "distance": 0.5752200000000001, 
+   "ka": "0.2265", 
+   "target": "Glyma.02G305200", 
+   "evalue": "0.0", 
+   "block_score": "740.0", 
+   "ks": "0.9654", 
+   "source": "Thecc1EG002334"
+  }, 
+  {
+   "distance": 0.56571, 
+   "ka": "0.2288", 
+   "target": "Glyma.14G008200", 
+   "evalue": "0.0", 
+   "block_score": "741.0", 
+   "ks": "0.9843", 
+   "source": "Thecc1EG002334"
+  }, 
+  {
+   "distance": 0.4073, 
+   "ka": "0.184", 
+   "target": "Potri.002G221300", 
+   "evalue": "0.0", 
+   "block_score": "1380.0", 
+   "ks": "0.7993", 
+   "source": "Thecc1EG002334"
+  }, 
+  {
+   "distance": 0.59241, 
+   "ka": "0.2275", 
+   "target": "chr2.CM0191.150.nc", 
+   "evalue": "0.0", 
+   "block_score": "327.0", 
+   "ks": "1.0653", 
+   "source": "Thecc1EG002334"
+  }, 
+  {
+   "distance": 0.66118, 
+   "ka": "0.2948", 
+   "target": "Potri.014G165200", 
+   "evalue": "4e-12", 
+   "block_score": "5019.0", 
+   "ks": "0.7426", 
+   "source": "Thecc1EG002334"
+  }, 
+  {
+   "distance": 0.7460300000000001, 
+   "target": "scaffold00088.123", 
+   "source": "Thecc1EG002334"
+  }, 
+  {
+   "distance": 0.4302, 
+   "ka": "0.174", 
+   "target": "GSVIVT01030051001", 
+   "evalue": "0.0", 
+   "block_score": "237.0", 
+   "ks": "0.8381", 
+   "source": "Thecc1EG002334"
+  }, 
+  {
+   "distance": 0.54432, 
+   "ka": "0.2309", 
+   "target": "PGSC0003DMC400010909", 
+   "evalue": "0.0", 
+   "block_score": "381.0", 
+   "ks": "1.4018", 
+   "source": "Thecc1EG002334"
+  }, 
+  {
+   "distance": 1.2272900000000002, 
+   "target": "16058853", 
+   "source": "LOC_Os03g12450"
+  }, 
+  {
+   "distance": 1.05443, 
+   "target": "evm.TU.supercontig_211.8", 
+   "source": "LOC_Os03g12450"
+  }, 
+  {
+   "distance": 0.29689, 
+   "target": "GRMZM2G358877", 
+   "source": "LOC_Os03g12450"
+  }, 
+  {
+   "distance": 1.25547, 
+   "target": "Brara.C04036", 
+   "source": "LOC_Os03g12450"
+  }, 
+  {
+   "distance": 0.9666100000000001, 
+   "target": "Gorai.001G221100", 
+   "source": "LOC_Os03g12450"
+  }, 
+  {
+   "distance": 1.04087, 
+   "target": "Solyc07g047860.2", 
+   "source": "LOC_Os03g12450"
+  }, 
+  {
+   "distance": 1.00794, 
+   "target": "mrna21604", 
+   "source": "LOC_Os03g12450"
+  }, 
+  {
+   "distance": 1.15501, 
+   "target": "Medtr5g097260", 
+   "source": "LOC_Os03g12450"
+  }, 
+  {
+   "distance": 0.99717, 
+   "target": "MDP0000132849", 
+   "source": "LOC_Os03g12450"
+  }, 
+  {
+   "distance": 1.10636, 
+   "target": "Glyma.02G305200", 
+   "source": "LOC_Os03g12450"
+  }, 
+  {
+   "distance": 1.09685, 
+   "target": "Glyma.14G008200", 
+   "source": "LOC_Os03g12450"
+  }, 
+  {
+   "distance": 0.992, 
+   "target": "Potri.002G221300", 
+   "source": "LOC_Os03g12450"
+  }, 
+  {
+   "distance": 1.12355, 
+   "target": "chr2.CM0191.150.nc", 
+   "source": "LOC_Os03g12450"
+  }, 
+  {
+   "distance": 1.24588, 
+   "target": "Potri.014G165200", 
+   "source": "LOC_Os03g12450"
+  }, 
+  {
+   "distance": 0.9753499999999999, 
+   "target": "scaffold00088.123", 
+   "source": "LOC_Os03g12450"
+  }, 
+  {
+   "distance": 0.9047999999999999, 
+   "target": "GSVIVT01030051001", 
+   "source": "LOC_Os03g12450"
+  }, 
+  {
+   "distance": 1.01892, 
+   "target": "PGSC0003DMC400010909", 
+   "source": "LOC_Os03g12450"
+  }, 
+  {
+   "distance": 0.75312, 
+   "target": "evm.TU.supercontig_211.8", 
+   "source": "16058853"
+  }, 
+  {
+   "distance": 1.2330200000000004, 
+   "target": "GRMZM2G358877", 
+   "source": "16058853"
+  }, 
+  {
+   "distance": 0.15968, 
+   "ka": "0.0707", 
+   "target": "Brara.C04036", 
+   "evalue": "0.0", 
+   "block_score": "2615.0", 
+   "ks": "0.3398", 
+   "source": "16058853"
+  }, 
+  {
+   "distance": 0.6322800000000001, 
+   "ka": "0.2596", 
+   "target": "Gorai.001G221100", 
+   "evalue": "0.0", 
+   "block_score": "204.0", 
+   "ks": "1.2438", 
+   "source": "16058853"
+  }, 
+  {
+   "distance": 0.84966, 
+   "ka": "0.3225", 
+   "target": "Solyc07g047860.2", 
+   "evalue": "0.0", 
+   "block_score": "262.0", 
+   "ks": "1.4498", 
+   "source": "16058853"
+  }, 
+  {
+   "distance": 0.76019, 
+   "ka": "0.2872", 
+   "target": "mrna21604", 
+   "evalue": "0.0", 
+   "block_score": "455.0", 
+   "ks": "1.2673", 
+   "source": "16058853"
+  }, 
+  {
+   "distance": 0.9072600000000001, 
+   "ka": "0.3076", 
+   "target": "Medtr5g097260", 
+   "evalue": "0.0", 
+   "block_score": "337.0", 
+   "ks": "1.5519", 
+   "source": "16058853"
+  }, 
+  {
+   "distance": 0.7494200000000001, 
+   "target": "MDP0000132849", 
+   "source": "16058853"
+  }, 
+  {
+   "distance": 0.85861, 
+   "ka": "0.3121", 
+   "target": "Glyma.02G305200", 
+   "evalue": "0.0", 
+   "block_score": "264.0", 
+   "ks": "1.5907", 
+   "source": "16058853"
+  }, 
+  {
+   "distance": 0.8491000000000001, 
+   "ka": "0.3129", 
+   "target": "Glyma.14G008200", 
+   "evalue": "0.0", 
+   "block_score": "224.0", 
+   "ks": "1.5917", 
+   "source": "16058853"
+  }, 
+  {
+   "distance": 0.69069, 
+   "ka": "0.2798", 
+   "target": "Potri.002G221300", 
+   "evalue": "0.0", 
+   "block_score": "220.0", 
+   "ks": "1.1834", 
+   "source": "16058853"
+  }, 
+  {
+   "distance": 0.8758, 
+   "ka": "0.3067", 
+   "target": "chr2.CM0191.150.nc", 
+   "evalue": "0.0", 
+   "block_score": "271.0", 
+   "ks": "1.5433", 
+   "source": "16058853"
+  }, 
+  {
+   "distance": 0.94457, 
+   "target": "Potri.014G165200", 
+   "source": "16058853"
+  }, 
+  {
+   "distance": 1.02942, 
+   "target": "scaffold00088.123", 
+   "source": "16058853"
+  }, 
+  {
+   "distance": 0.7135900000000001, 
+   "target": "GSVIVT01030051001", 
+   "source": "16058853"
+  }, 
+  {
+   "distance": 0.8277100000000001, 
+   "ka": "0.3157", 
+   "target": "PGSC0003DMC400010909", 
+   "evalue": "0.0", 
+   "block_score": "253.0", 
+   "ks": "1.4979", 
+   "source": "16058853"
+  }, 
+  {
+   "distance": 1.06016, 
+   "target": "GRMZM2G358877", 
+   "source": "evm.TU.supercontig_211.8"
+  }, 
+  {
+   "distance": 0.7813000000000001, 
+   "target": "Brara.C04036", 
+   "source": "evm.TU.supercontig_211.8"
+  }, 
+  {
+   "distance": 0.49244, 
+   "ka": "0.2396", 
+   "target": "Gorai.001G221100", 
+   "evalue": "1e-132", 
+   "block_score": "226.0", 
+   "ks": "1.1029", 
+   "source": "evm.TU.supercontig_211.8"
+  }, 
+  {
+   "distance": 0.6768000000000001, 
+   "target": "Solyc07g047860.2", 
+   "source": "evm.TU.supercontig_211.8"
+  }, 
+  {
+   "distance": 0.58733, 
+   "target": "mrna21604", 
+   "source": "evm.TU.supercontig_211.8"
+  }, 
+  {
+   "distance": 0.7344, 
+   "target": "Medtr5g097260", 
+   "source": "evm.TU.supercontig_211.8"
+  }, 
+  {
+   "distance": 0.57656, 
+   "target": "MDP0000132849", 
+   "source": "evm.TU.supercontig_211.8"
+  }, 
+  {
+   "distance": 0.6857500000000001, 
+   "ka": "0.3123", 
+   "target": "Glyma.02G305200", 
+   "evalue": "2e-114", 
+   "block_score": "219.0", 
+   "ks": "1.2556", 
+   "source": "evm.TU.supercontig_211.8"
+  }, 
+  {
+   "distance": 0.67624, 
+   "ka": "0.3104", 
+   "target": "Glyma.14G008200", 
+   "evalue": "3e-115", 
+   "block_score": "217.0", 
+   "ks": "1.2415", 
+   "source": "evm.TU.supercontig_211.8"
+  }, 
+  {
+   "distance": 0.47119, 
+   "target": "Potri.002G221300", 
+   "source": "evm.TU.supercontig_211.8"
+  }, 
+  {
+   "distance": 0.70294, 
+   "target": "chr2.CM0191.150.nc", 
+   "source": "evm.TU.supercontig_211.8"
+  }, 
+  {
+   "distance": 0.72507, 
+   "target": "Potri.014G165200", 
+   "source": "evm.TU.supercontig_211.8"
+  }, 
+  {
+   "distance": 0.85656, 
+   "target": "scaffold00088.123", 
+   "source": "evm.TU.supercontig_211.8"
+  }, 
+  {
+   "distance": 0.54073, 
+   "ka": "0.2463", 
+   "target": "GSVIVT01030051001", 
+   "evalue": "1e-134", 
+   "block_score": "424.0", 
+   "ks": "0.8556", 
+   "source": "evm.TU.supercontig_211.8"
+  }, 
+  {
+   "distance": 0.65485, 
+   "target": "PGSC0003DMC400010909", 
+   "source": "evm.TU.supercontig_211.8"
+  }, 
+  {
+   "distance": 1.2612000000000003, 
+   "target": "Brara.C04036", 
+   "source": "GRMZM2G358877"
+  }, 
+  {
+   "distance": 0.9723400000000001, 
+   "target": "Gorai.001G221100", 
+   "source": "GRMZM2G358877"
+  }, 
+  {
+   "distance": 1.0466, 
+   "target": "Solyc07g047860.2", 
+   "source": "GRMZM2G358877"
+  }, 
+  {
+   "distance": 1.01367, 
+   "target": "mrna21604", 
+   "source": "GRMZM2G358877"
+  }, 
+  {
+   "distance": 1.16074, 
+   "target": "Medtr5g097260", 
+   "source": "GRMZM2G358877"
+  }, 
+  {
+   "distance": 1.0029000000000001, 
+   "target": "MDP0000132849", 
+   "source": "GRMZM2G358877"
+  }, 
+  {
+   "distance": 1.11209, 
+   "target": "Glyma.02G305200", 
+   "source": "GRMZM2G358877"
+  }, 
+  {
+   "distance": 1.1025800000000001, 
+   "target": "Glyma.14G008200", 
+   "source": "GRMZM2G358877"
+  }, 
+  {
+   "distance": 0.99773, 
+   "target": "Potri.002G221300", 
+   "source": "GRMZM2G358877"
+  }, 
+  {
+   "distance": 1.12928, 
+   "target": "chr2.CM0191.150.nc", 
+   "source": "GRMZM2G358877"
+  }, 
+  {
+   "distance": 1.2516100000000001, 
+   "target": "Potri.014G165200", 
+   "source": "GRMZM2G358877"
+  }, 
+  {
+   "distance": 0.98108, 
+   "target": "scaffold00088.123", 
+   "source": "GRMZM2G358877"
+  }, 
+  {
+   "distance": 0.91053, 
+   "target": "GSVIVT01030051001", 
+   "source": "GRMZM2G358877"
+  }, 
+  {
+   "distance": 1.02465, 
+   "target": "PGSC0003DMC400010909", 
+   "source": "GRMZM2G358877"
+  }, 
+  {
+   "distance": 0.6604599999999999, 
+   "target": "Gorai.001G221100", 
+   "source": "Brara.C04036"
+  }, 
+  {
+   "distance": 0.8778400000000001, 
+   "target": "Solyc07g047860.2", 
+   "source": "Brara.C04036"
+  }, 
+  {
+   "distance": 0.7883700000000001, 
+   "ka": "0.3107", 
+   "target": "mrna21604", 
+   "evalue": "0.0", 
+   "block_score": "417.0", 
+   "ks": "1.4827", 
+   "source": "Brara.C04036"
+  }, 
+  {
+   "distance": 0.93544, 
+   "ka": "0.3249", 
+   "target": "Medtr5g097260", 
+   "evalue": "0.0", 
+   "block_score": "237.0", 
+   "ks": "1.7076", 
+   "source": "Brara.C04036"
+  }, 
+  {
+   "distance": 0.7776000000000001, 
+   "target": "MDP0000132849", 
+   "source": "Brara.C04036"
+  }, 
+  {
+   "distance": 0.8867900000000001, 
+   "ka": "0.3289", 
+   "target": "Glyma.02G305200", 
+   "evalue": "0.0", 
+   "block_score": "231.0", 
+   "ks": "1.8169", 
+   "source": "Brara.C04036"
+  }, 
+  {
+   "distance": 0.8772800000000001, 
+   "target": "Glyma.14G008200", 
+   "source": "Brara.C04036"
+  }, 
+  {
+   "distance": 0.71887, 
+   "ka": "0.2859", 
+   "target": "Potri.002G221300", 
+   "evalue": "0.0", 
+   "block_score": "273.0", 
+   "ks": "1.3175", 
+   "source": "Brara.C04036"
+  }, 
+  {
+   "distance": 0.9039800000000001, 
+   "ka": "0.3288", 
+   "target": "chr2.CM0191.150.nc", 
+   "evalue": "0.0", 
+   "block_score": "217.0", 
+   "ks": "1.6785", 
+   "source": "Brara.C04036"
+  }, 
+  {
+   "distance": 0.97275, 
+   "target": "Potri.014G165200", 
+   "source": "Brara.C04036"
+  }, 
+  {
+   "distance": 1.0576, 
+   "target": "scaffold00088.123", 
+   "source": "Brara.C04036"
+  }, 
+  {
+   "distance": 0.7417700000000002, 
+   "ka": "0.2841", 
+   "target": "GSVIVT01030051001", 
+   "evalue": "0.0", 
+   "block_score": "254.0", 
+   "ks": "1.2407", 
+   "source": "Brara.C04036"
+  }, 
+  {
+   "distance": 0.8558900000000002, 
+   "target": "PGSC0003DMC400010909", 
+   "source": "Brara.C04036"
+  }, 
+  {
+   "distance": 0.5889800000000001, 
+   "ka": "0.2533", 
+   "target": "Solyc07g047860.2", 
+   "evalue": "0.0", 
+   "block_score": "576.0", 
+   "ks": "1.2889", 
+   "source": "Gorai.001G221100"
+  }, 
+  {
+   "distance": 0.49951, 
+   "ka": "0.2085", 
+   "target": "mrna21604", 
+   "evalue": "0.0", 
+   "block_score": "455.0", 
+   "ks": "1.1582", 
+   "source": "Gorai.001G221100"
+  }, 
+  {
+   "distance": 0.6465800000000002, 
+   "ka": "0.2306", 
+   "target": "Medtr5g097260", 
+   "evalue": "0.0", 
+   "block_score": "377.0", 
+   "ks": "1.1375", 
+   "source": "Gorai.001G221100"
+  }, 
+  {
+   "distance": 0.48874000000000006, 
+   "target": "MDP0000132849", 
+   "source": "Gorai.001G221100"
+  }, 
+  {
+   "distance": 0.5979300000000001, 
+   "ka": "0.2352", 
+   "target": "Glyma.02G305200", 
+   "evalue": "0.0", 
+   "block_score": "383.0", 
+   "ks": "1.1217", 
+   "source": "Gorai.001G221100"
+  }, 
+  {
+   "distance": 0.58842, 
+   "ka": "0.2364", 
+   "target": "Glyma.14G008200", 
+   "evalue": "0.0", 
+   "block_score": "342.0", 
+   "ks": "1.1708", 
+   "source": "Gorai.001G221100"
+  }, 
+  {
+   "distance": 0.43001, 
+   "target": "Potri.002G221300", 
+   "source": "Gorai.001G221100"
+  }, 
+  {
+   "distance": 0.61512, 
+   "ka": "0.2316", 
+   "target": "chr2.CM0191.150.nc", 
+   "evalue": "0.0", 
+   "block_score": "423.0", 
+   "ks": "1.0527", 
+   "source": "Gorai.001G221100"
+  }, 
+  {
+   "distance": 0.68389, 
+   "ka": "0.2625", 
+   "target": "Potri.014G165200", 
+   "evalue": "3e-09", 
+   "block_score": "1649.0", 
+   "ks": "0.7871", 
+   "source": "Gorai.001G221100"
+  }, 
+  {
+   "distance": 0.7687400000000001, 
+   "target": "scaffold00088.123", 
+   "source": "Gorai.001G221100"
+  }, 
+  {
+   "distance": 0.45291000000000003, 
+   "target": "GSVIVT01030051001", 
+   "source": "Gorai.001G221100"
+  }, 
+  {
+   "distance": 0.56703, 
+   "target": "PGSC0003DMC400010909", 
+   "source": "Gorai.001G221100"
+  }, 
+  {
+   "distance": 0.6303099999999999, 
+   "ka": "0.2567", 
+   "target": "mrna21604", 
+   "evalue": "0.0", 
+   "block_score": "253.0", 
+   "ks": "1.4643", 
+   "source": "Solyc07g047860.2"
+  }, 
+  {
+   "distance": 0.77738, 
+   "ka": "0.3008", 
+   "target": "Medtr5g097260", 
+   "evalue": "0.0", 
+   "block_score": "284.0", 
+   "ks": "1.8078", 
+   "source": "Solyc07g047860.2"
+  }, 
+  {
+   "distance": 0.61954, 
+   "target": "MDP0000132849", 
+   "source": "Solyc07g047860.2"
+  }, 
+  {
+   "distance": 0.72873, 
+   "ka": "0.294", 
+   "target": "Glyma.02G305200", 
+   "evalue": "0.0", 
+   "block_score": "214.0", 
+   "ks": "1.677", 
+   "source": "Solyc07g047860.2"
+  }, 
+  {
+   "distance": 0.71922, 
+   "ka": "0.2892", 
+   "target": "Glyma.14G008200", 
+   "evalue": "0.0", 
+   "block_score": "253.0", 
+   "ks": "1.738", 
+   "source": "Solyc07g047860.2"
+  }, 
+  {
+   "distance": 0.6143700000000001, 
+   "target": "Potri.002G221300", 
+   "source": "Solyc07g047860.2"
+  }, 
+  {
+   "distance": 0.74592, 
+   "target": "chr2.CM0191.150.nc", 
+   "source": "Solyc07g047860.2"
+  }, 
+  {
+   "distance": 0.86825, 
+   "ka": "0.329", 
+   "target": "Potri.014G165200", 
+   "evalue": "2e-11", 
+   "block_score": "263.0", 
+   "ks": "0.9456", 
+   "source": "Solyc07g047860.2"
+  }, 
+  {
+   "distance": 0.843, 
+   "ka": "0.3599", 
+   "target": "scaffold00088.123", 
+   "evalue": "0.0", 
+   "block_score": "229.0", 
+   "ks": "1.9508", 
+   "source": "Solyc07g047860.2"
+  }, 
+  {
+   "distance": 0.47789, 
+   "ka": "0.22", 
+   "target": "GSVIVT01030051001", 
+   "evalue": "0.0", 
+   "block_score": "1326.0", 
+   "ks": "1.1326", 
+   "source": "Solyc07g047860.2"
+  }, 
+  {
+   "distance": 0.04241, 
+   "ka": "0.0193", 
+   "target": "PGSC0003DMC400010909", 
+   "evalue": "0.0", 
+   "block_score": "3193.0", 
+   "ks": "0.0709", 
+   "source": "Solyc07g047860.2"
+  }, 
+  {
+   "distance": 0.58121, 
+   "ka": "0.2431", 
+   "target": "Medtr5g097260", 
+   "evalue": "0.0", 
+   "block_score": "573.0", 
+   "ks": "1.1743", 
+   "source": "mrna21604"
+  }, 
+  {
+   "distance": 0.19179, 
+   "target": "MDP0000132849", 
+   "source": "mrna21604"
+  }, 
+  {
+   "distance": 0.53256, 
+   "ka": "0.2328", 
+   "target": "Glyma.02G305200", 
+   "evalue": "0.0", 
+   "block_score": "659.0", 
+   "ks": "1.1395", 
+   "source": "mrna21604"
+  }, 
+  {
+   "distance": 0.52305, 
+   "ka": "0.2329", 
+   "target": "Glyma.14G008200", 
+   "evalue": "0.0", 
+   "block_score": "698.0", 
+   "ks": "1.141", 
+   "source": "mrna21604"
+  }, 
+  {
+   "distance": 0.5249, 
+   "ka": "0.2144", 
+   "target": "Potri.002G221300", 
+   "evalue": "0.0", 
+   "block_score": "456.0", 
+   "ks": "0.9588", 
+   "source": "mrna21604"
+  }, 
+  {
+   "distance": 0.54975, 
+   "ka": "0.2386", 
+   "target": "chr2.CM0191.150.nc", 
+   "evalue": "0.0", 
+   "block_score": "452.0", 
+   "ks": "1.108", 
+   "source": "mrna21604"
+  }, 
+  {
+   "distance": 0.77878, 
+   "target": "Potri.014G165200", 
+   "source": "mrna21604"
+  }, 
+  {
+   "distance": 0.81007, 
+   "target": "scaffold00088.123", 
+   "source": "mrna21604"
+  }, 
+  {
+   "distance": 0.49424, 
+   "ka": "0.2073", 
+   "target": "GSVIVT01030051001", 
+   "evalue": "0.0", 
+   "block_score": "231.0", 
+   "ks": "0.8892", 
+   "source": "mrna21604"
+  }, 
+  {
+   "distance": 0.60836, 
+   "target": "PGSC0003DMC400010909", 
+   "source": "mrna21604"
+  }, 
+  {
+   "distance": 0.57044, 
+   "target": "MDP0000132849", 
+   "source": "Medtr5g097260"
+  }, 
+  {
+   "distance": 0.23399, 
+   "ka": "0.107", 
+   "target": "Glyma.02G305200", 
+   "evalue": "0.0", 
+   "block_score": "10186.0", 
+   "ks": "0.4378", 
+   "source": "Medtr5g097260"
+  }, 
+  {
+   "distance": 0.22448, 
+   "ka": "0.1019", 
+   "target": "Glyma.14G008200", 
+   "evalue": "0.0", 
+   "block_score": "13651.0", 
+   "ks": "0.4652", 
+   "source": "Medtr5g097260"
+  }, 
+  {
+   "distance": 0.6719700000000001, 
+   "target": "Potri.002G221300", 
+   "source": "Medtr5g097260"
+  }, 
+  {
+   "distance": 0.21654, 
+   "ka": "0.0998", 
+   "target": "chr2.CM0191.150.nc", 
+   "evalue": "0.0", 
+   "block_score": "1267.0", 
+   "ks": "0.4325", 
+   "source": "Medtr5g097260"
+  }, 
+  {
+   "distance": 0.9258500000000001, 
+   "ka": "0.3274", 
+   "target": "Potri.014G165200", 
+   "evalue": "7e-08", 
+   "block_score": "306.0", 
+   "ks": "0.9127", 
+   "source": "Medtr5g097260"
+  }, 
+  {
+   "distance": 0.95714, 
+   "target": "scaffold00088.123", 
+   "source": "Medtr5g097260"
+  }, 
+  {
+   "distance": 0.64131, 
+   "ka": "0.2291", 
+   "target": "GSVIVT01030051001", 
+   "evalue": "0.0", 
+   "block_score": "224.0", 
+   "ks": "0.9676", 
+   "source": "Medtr5g097260"
+  }, 
+  {
+   "distance": 0.75543, 
+   "target": "PGSC0003DMC400010909", 
+   "source": "Medtr5g097260"
+  }, 
+  {
+   "distance": 0.52179, 
+   "target": "Glyma.02G305200", 
+   "source": "MDP0000132849"
+  }, 
+  {
+   "distance": 0.51228, 
+   "target": "Glyma.14G008200", 
+   "source": "MDP0000132849"
+  }, 
+  {
+   "distance": 0.51413, 
+   "target": "Potri.002G221300", 
+   "source": "MDP0000132849"
+  }, 
+  {
+   "distance": 0.53898, 
+   "target": "chr2.CM0191.150.nc", 
+   "source": "MDP0000132849"
+  }, 
+  {
+   "distance": 0.7680100000000001, 
+   "target": "Potri.014G165200", 
+   "source": "MDP0000132849"
+  }, 
+  {
+   "distance": 0.7993, 
+   "target": "scaffold00088.123", 
+   "source": "MDP0000132849"
+  }, 
+  {
+   "distance": 0.48347, 
+   "target": "GSVIVT01030051001", 
+   "source": "MDP0000132849"
+  }, 
+  {
+   "distance": 0.5975900000000001, 
+   "target": "PGSC0003DMC400010909", 
+   "source": "MDP0000132849"
+  }, 
+  {
+   "distance": 0.047909999999999994, 
+   "ka": "0.0218", 
+   "target": "Glyma.14G008200", 
+   "evalue": "0.0", 
+   "block_score": "12961.0", 
+   "ks": "0.0832", 
+   "source": "Glyma.02G305200"
+  }, 
+  {
+   "distance": 0.6233200000000001, 
+   "target": "Potri.002G221300", 
+   "source": "Glyma.02G305200"
+  }, 
+  {
+   "distance": 0.20253, 
+   "ka": "0.091", 
+   "target": "chr2.CM0191.150.nc", 
+   "evalue": "0.0", 
+   "block_score": "1258.0", 
+   "ks": "0.3823", 
+   "source": "Glyma.02G305200"
+  }, 
+  {
+   "distance": 0.8772, 
+   "target": "Potri.014G165200", 
+   "source": "Glyma.02G305200"
+  }, 
+  {
+   "distance": 0.90849, 
+   "target": "scaffold00088.123", 
+   "source": "Glyma.02G305200"
+  }, 
+  {
+   "distance": 0.5926600000000001, 
+   "ka": "0.2209", 
+   "target": "GSVIVT01030051001", 
+   "evalue": "0.0", 
+   "block_score": "326.0", 
+   "ks": "0.9404", 
+   "source": "Glyma.02G305200"
+  }, 
+  {
+   "distance": 0.7067800000000001, 
+   "target": "PGSC0003DMC400010909", 
+   "source": "Glyma.02G305200"
+  }, 
+  {
+   "distance": 0.61381, 
+   "ka": "0.2531", 
+   "target": "Potri.002G221300", 
+   "evalue": "0.0", 
+   "block_score": "218.0", 
+   "ks": "1.1149", 
+   "source": "Glyma.14G008200"
+  }, 
+  {
+   "distance": 0.19302, 
+   "ka": "0.0866", 
+   "target": "chr2.CM0191.150.nc", 
+   "evalue": "0.0", 
+   "block_score": "1456.0", 
+   "ks": "0.4011", 
+   "source": "Glyma.14G008200"
+  }, 
+  {
+   "distance": 0.8676900000000001, 
+   "ka": "0.5326", 
+   "target": "Potri.014G165200", 
+   "evalue": "7e-08", 
+   "block_score": "453.0", 
+   "ks": "1.6287", 
+   "source": "Glyma.14G008200"
+  }, 
+  {
+   "distance": 0.89898, 
+   "target": "scaffold00088.123", 
+   "source": "Glyma.14G008200"
+  }, 
+  {
+   "distance": 0.5831500000000001, 
+   "ka": "0.2191", 
+   "target": "GSVIVT01030051001", 
+   "evalue": "0.0", 
+   "block_score": "284.0", 
+   "ks": "0.9593", 
+   "source": "Glyma.14G008200"
+  }, 
+  {
+   "distance": 0.6972700000000001, 
+   "ka": "0.2847", 
+   "target": "PGSC0003DMC400010909", 
+   "evalue": "0.0", 
+   "block_score": "299.0", 
+   "ks": "1.6359", 
+   "source": "Glyma.14G008200"
+  }, 
+  {
+   "distance": 0.64051, 
+   "target": "chr2.CM0191.150.nc", 
+   "source": "Potri.002G221300"
+  }, 
+  {
+   "distance": 0.36736, 
+   "ka": "0.1534", 
+   "target": "Potri.014G165200", 
+   "evalue": "2e-20", 
+   "block_score": "2925.0", 
+   "ks": "0.2745", 
+   "source": "Potri.002G221300"
+  }, 
+  {
+   "distance": 0.79413, 
+   "target": "scaffold00088.123", 
+   "source": "Potri.002G221300"
+  }, 
+  {
+   "distance": 0.47830000000000006, 
+   "target": "GSVIVT01030051001", 
+   "source": "Potri.002G221300"
+  }, 
+  {
+   "distance": 0.5924200000000001, 
+   "target": "PGSC0003DMC400010909", 
+   "source": "Potri.002G221300"
+  }, 
+  {
+   "distance": 0.89439, 
+   "target": "Potri.014G165200", 
+   "source": "chr2.CM0191.150.nc"
+  }, 
+  {
+   "distance": 0.9256800000000001, 
+   "target": "scaffold00088.123", 
+   "source": "chr2.CM0191.150.nc"
+  }, 
+  {
+   "distance": 0.60985, 
+   "target": "GSVIVT01030051001", 
+   "source": "chr2.CM0191.150.nc"
+  }, 
+  {
+   "distance": 0.72397, 
+   "target": "PGSC0003DMC400010909", 
+   "source": "chr2.CM0191.150.nc"
+  }, 
+  {
+   "distance": 1.0480099999999999, 
+   "target": "scaffold00088.123", 
+   "source": "Potri.014G165200"
+  }, 
+  {
+   "distance": 0.73218, 
+   "ka": "0.2595", 
+   "target": "GSVIVT01030051001", 
+   "evalue": "1e-11", 
+   "block_score": "1318.0", 
+   "ks": "0.6619", 
+   "source": "Potri.014G165200"
+  }, 
+  {
+   "distance": 0.8463, 
+   "target": "PGSC0003DMC400010909", 
+   "source": "Potri.014G165200"
+  }, 
+  {
+   "distance": 0.7069300000000001, 
+   "target": "GSVIVT01030051001", 
+   "source": "scaffold00088.123"
+  }, 
+  {
+   "distance": 0.82105, 
+   "ka": "0.3486", 
+   "target": "PGSC0003DMC400010909", 
+   "evalue": "0.0", 
+   "block_score": "225.0", 
+   "ks": "1.791", 
+   "source": "scaffold00088.123"
+  }, 
+  {
+   "distance": 0.45594, 
+   "ka": "0.2169", 
+   "target": "PGSC0003DMC400010909", 
+   "evalue": "0.0", 
+   "block_score": "739.0", 
+   "ks": "1.0547", 
+   "source": "GSVIVT01030051001"
+  }
+ ]
+}

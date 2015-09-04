@@ -1,0 +1,2726 @@
+{
+ "nodes": [
+  {
+   "id": "Potri.014G056800", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 1, 
+    "2.0": 1, 
+    "6.0": 1, 
+    "4.0": 1, 
+    "0.8": 1, 
+    "1.6": 1, 
+    "3.2": 1, 
+    "2.4": 1, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 1, 
+    "7.2": 1, 
+    "8.0": 1, 
+    "7.6": 1, 
+    "3.6": 1, 
+    "6.4": 1, 
+    "5.2": 1, 
+    "2.8": 1, 
+    "5.6": 1, 
+    "4.4": 1
+   }, 
+   "species": "pt", 
+   "plaza_name": "PT14G05680", 
+   "anchor": 0
+  }, 
+  {
+   "id": "Brara.D02722", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 2, 
+    "2.0": 2, 
+    "6.0": 2, 
+    "4.0": 2, 
+    "0.8": 1, 
+    "1.6": 2, 
+    "3.2": 2, 
+    "2.4": 2, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 2, 
+    "7.2": 2, 
+    "8.0": 2, 
+    "7.6": 2, 
+    "3.6": 2, 
+    "6.4": 2, 
+    "5.2": 2, 
+    "2.8": 2, 
+    "5.6": 2, 
+    "4.4": 2
+   }, 
+   "species": "br", 
+   "plaza_name": "BR04G26840", 
+   "anchor": 0
+  }, 
+  {
+   "id": "Medtr7g045370", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 2, 
+    "2.0": 2, 
+    "6.0": 2, 
+    "4.0": 2, 
+    "0.8": 1, 
+    "1.6": 2, 
+    "3.2": 2, 
+    "2.4": 2, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 2, 
+    "7.2": 2, 
+    "8.0": 2, 
+    "7.6": 2, 
+    "3.6": 2, 
+    "6.4": 2, 
+    "5.2": 2, 
+    "2.8": 2, 
+    "5.6": 2, 
+    "4.4": 2
+   }, 
+   "species": "mt", 
+   "plaza_name": "MT7G045370", 
+   "anchor": 1
+  }, 
+  {
+   "id": "evm.TU.supercontig_22.7", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 1, 
+    "2.0": 1, 
+    "6.0": 1, 
+    "4.0": 1, 
+    "0.8": 1, 
+    "1.6": 1, 
+    "3.2": 1, 
+    "2.4": 1, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 1, 
+    "7.2": 1, 
+    "8.0": 1, 
+    "7.6": 1, 
+    "3.6": 1, 
+    "6.4": 1, 
+    "5.2": 1, 
+    "2.8": 1, 
+    "5.6": 1, 
+    "4.4": 1
+   }, 
+   "species": "cp", 
+   "plaza_name": "CP00022G00070", 
+   "anchor": 0
+  }, 
+  {
+   "id": "GSVIVT01018217001", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 1, 
+    "2.0": 1, 
+    "6.0": 1, 
+    "4.0": 1, 
+    "0.8": 1, 
+    "1.6": 1, 
+    "3.2": 1, 
+    "2.4": 1, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 1, 
+    "7.2": 1, 
+    "8.0": 1, 
+    "7.6": 1, 
+    "3.6": 1, 
+    "6.4": 1, 
+    "5.2": 1, 
+    "2.8": 1, 
+    "5.6": 1, 
+    "4.4": 1
+   }, 
+   "species": "vv", 
+   "plaza_name": "VV15G00750", 
+   "anchor": 0
+  }, 
+  {
+   "id": "Solyc01g090660.2", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 1, 
+    "2.0": 1, 
+    "6.0": 1, 
+    "4.0": 1, 
+    "0.8": 1, 
+    "1.6": 1, 
+    "3.2": 1, 
+    "2.4": 1, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 1, 
+    "7.2": 1, 
+    "8.0": 1, 
+    "7.6": 1, 
+    "3.6": 1, 
+    "6.4": 1, 
+    "5.2": 1, 
+    "2.8": 1, 
+    "5.6": 1, 
+    "4.4": 1
+   }, 
+   "species": "sl", 
+   "plaza_name": "SL01G090660", 
+   "anchor": 0
+  }, 
+  {
+   "id": "Glyma.01G073200", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 2, 
+    "2.0": 1, 
+    "6.0": 2, 
+    "4.0": 2, 
+    "0.8": 1, 
+    "1.6": 1, 
+    "3.2": 2, 
+    "2.4": 1, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 2, 
+    "7.2": 2, 
+    "8.0": 2, 
+    "7.6": 2, 
+    "3.6": 2, 
+    "6.4": 2, 
+    "5.2": 2, 
+    "2.8": 2, 
+    "5.6": 2, 
+    "4.4": 2
+   }, 
+   "species": "gm", 
+   "plaza_name": "GM01G14266", 
+   "anchor": 0
+  }, 
+  {
+   "id": "MDP0000197409", 
+   "clusters": {
+    "0": 0, 
+    "4.8": 0, 
+    "2.0": 0, 
+    "6.0": 0, 
+    "4.0": 0, 
+    "0.8": 0, 
+    "1.6": 0, 
+    "3.2": 0, 
+    "2.4": 0, 
+    "1.2": 0, 
+    "0.4": 0, 
+    "6.8": 0, 
+    "7.2": 0, 
+    "8.0": 0, 
+    "7.6": 0, 
+    "3.6": 0, 
+    "6.4": 0, 
+    "5.2": 0, 
+    "2.8": 0, 
+    "5.6": 0, 
+    "4.4": 0
+   }, 
+   "species": "md", 
+   "plaza_name": "MD00G287800", 
+   "anchor": 0
+  }, 
+  {
+   "id": "Cre16.g657750", 
+   "clusters": {
+    "0": 0, 
+    "4.8": 0, 
+    "2.0": 0, 
+    "6.0": 0, 
+    "4.0": 0, 
+    "0.8": 0, 
+    "1.6": 0, 
+    "3.2": 0, 
+    "2.4": 0, 
+    "1.2": 0, 
+    "0.4": 0, 
+    "6.8": 0, 
+    "7.2": 0, 
+    "8.0": 0, 
+    "7.6": 0, 
+    "3.6": 0, 
+    "6.4": 0, 
+    "5.2": 0, 
+    "2.8": 0, 
+    "5.6": 0, 
+    "4.4": 0
+   }, 
+   "species": "cr", 
+   "plaza_name": "CR16G03470", 
+   "anchor": 0
+  }, 
+  {
+   "id": "Cre12.g488350", 
+   "clusters": {
+    "0": 0, 
+    "4.8": 0, 
+    "2.0": 0, 
+    "6.0": 0, 
+    "4.0": 0, 
+    "0.8": 0, 
+    "1.6": 0, 
+    "3.2": 0, 
+    "2.4": 0, 
+    "1.2": 0, 
+    "0.4": 0, 
+    "6.8": 0, 
+    "7.2": 0, 
+    "8.0": 0, 
+    "7.6": 0, 
+    "3.6": 0, 
+    "6.4": 0, 
+    "5.2": 0, 
+    "2.8": 0, 
+    "5.6": 0, 
+    "4.4": 0
+   }, 
+   "species": "cr", 
+   "plaza_name": "CR12G02150", 
+   "anchor": 0
+  }, 
+  {
+   "id": "Gorai.008G107600", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 1, 
+    "2.0": 1, 
+    "6.0": 1, 
+    "4.0": 1, 
+    "0.8": 1, 
+    "1.6": 1, 
+    "3.2": 1, 
+    "2.4": 1, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 1, 
+    "7.2": 1, 
+    "8.0": 1, 
+    "7.6": 1, 
+    "3.6": 1, 
+    "6.4": 1, 
+    "5.2": 1, 
+    "2.8": 1, 
+    "5.6": 1, 
+    "4.4": 1
+   }, 
+   "species": "gr", 
+   "plaza_name": "GR08G10760", 
+   "anchor": 0
+  }, 
+  {
+   "id": "MDP0000139334", 
+   "clusters": {
+    "0": 0, 
+    "4.8": 0, 
+    "2.0": 0, 
+    "6.0": 0, 
+    "4.0": 0, 
+    "0.8": 0, 
+    "1.6": 0, 
+    "3.2": 0, 
+    "2.4": 0, 
+    "1.2": 0, 
+    "0.4": 0, 
+    "6.8": 0, 
+    "7.2": 0, 
+    "8.0": 0, 
+    "7.6": 0, 
+    "3.6": 0, 
+    "6.4": 0, 
+    "5.2": 0, 
+    "2.8": 0, 
+    "5.6": 0, 
+    "4.4": 0
+   }, 
+   "species": "md", 
+   "plaza_name": "MD00G287810", 
+   "anchor": 0
+  }, 
+  {
+   "id": "PGSC0003DMC400045162", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 1, 
+    "2.0": 1, 
+    "6.0": 1, 
+    "4.0": 1, 
+    "0.8": 1, 
+    "1.6": 1, 
+    "3.2": 1, 
+    "2.4": 1, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 1, 
+    "7.2": 1, 
+    "8.0": 1, 
+    "7.6": 1, 
+    "3.6": 1, 
+    "6.4": 1, 
+    "5.2": 1, 
+    "2.8": 1, 
+    "5.6": 1, 
+    "4.4": 1
+   }, 
+   "species": "st", 
+   "plaza_name": "ST01G029800", 
+   "anchor": 0
+  }, 
+  {
+   "id": "Cre09.g395362", 
+   "clusters": {
+    "0": 0, 
+    "4.8": 0, 
+    "2.0": 0, 
+    "6.0": 0, 
+    "4.0": 0, 
+    "0.8": 0, 
+    "1.6": 0, 
+    "3.2": 0, 
+    "2.4": 0, 
+    "1.2": 0, 
+    "0.4": 0, 
+    "6.8": 0, 
+    "7.2": 0, 
+    "8.0": 0, 
+    "7.6": 0, 
+    "3.6": 0, 
+    "6.4": 0, 
+    "5.2": 0, 
+    "2.8": 0, 
+    "5.6": 0, 
+    "4.4": 0
+   }, 
+   "species": "cr", 
+   "plaza_name": "CR09G07010", 
+   "anchor": 0
+  }, 
+  {
+   "id": "16053913", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 2, 
+    "2.0": 2, 
+    "6.0": 2, 
+    "4.0": 2, 
+    "0.8": 1, 
+    "1.6": 2, 
+    "3.2": 2, 
+    "2.4": 2, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 2, 
+    "7.2": 2, 
+    "8.0": 2, 
+    "7.6": 2, 
+    "3.6": 2, 
+    "6.4": 2, 
+    "5.2": 2, 
+    "2.8": 2, 
+    "5.6": 2, 
+    "4.4": 2
+   }, 
+   "species": "al", 
+   "plaza_name": "AL4G32850", 
+   "anchor": 0
+  }, 
+  {
+   "id": "Phpat.006G080000", 
+   "clusters": {
+    "0": 0, 
+    "4.8": 0, 
+    "2.0": 0, 
+    "6.0": 0, 
+    "4.0": 0, 
+    "0.8": 0, 
+    "1.6": 0, 
+    "3.2": 0, 
+    "2.4": 0, 
+    "1.2": 0, 
+    "0.4": 0, 
+    "6.8": 0, 
+    "7.2": 0, 
+    "8.0": 0, 
+    "7.6": 0, 
+    "3.6": 0, 
+    "6.4": 0, 
+    "5.2": 0, 
+    "2.8": 0, 
+    "5.6": 0, 
+    "4.4": 0
+   }, 
+   "species": "ph", 
+   "plaza_name": "PP00014G02310", 
+   "anchor": 0
+  }, 
+  {
+   "id": "LOC_Os04g46470", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 1, 
+    "2.0": 1, 
+    "6.0": 1, 
+    "4.0": 1, 
+    "0.8": 1, 
+    "1.6": 1, 
+    "3.2": 1, 
+    "2.4": 1, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 1, 
+    "7.2": 1, 
+    "8.0": 1, 
+    "7.6": 1, 
+    "3.6": 1, 
+    "6.4": 1, 
+    "5.2": 1, 
+    "2.8": 1, 
+    "5.6": 1, 
+    "4.4": 1
+   }, 
+   "species": "os", 
+   "plaza_name": "OS04G46470", 
+   "anchor": 0
+  }, 
+  {
+   "id": "Glyma.U016700", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 1, 
+    "2.0": 1, 
+    "6.0": 1, 
+    "4.0": 1, 
+    "0.8": 1, 
+    "1.6": 1, 
+    "3.2": 1, 
+    "2.4": 1, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 1, 
+    "7.2": 1, 
+    "8.0": 1, 
+    "7.6": 1, 
+    "3.6": 1, 
+    "6.4": 1, 
+    "5.2": 1, 
+    "2.8": 1, 
+    "5.6": 1, 
+    "4.4": 1
+   }, 
+   "species": "gm", 
+   "plaza_name": "GM11G16370", 
+   "anchor": 0
+  }, 
+  {
+   "id": "mrna04863", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 1, 
+    "2.0": 1, 
+    "6.0": 1, 
+    "4.0": 1, 
+    "0.8": 1, 
+    "1.6": 1, 
+    "3.2": 1, 
+    "2.4": 1, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 1, 
+    "7.2": 1, 
+    "8.0": 1, 
+    "7.6": 1, 
+    "3.6": 1, 
+    "6.4": 1, 
+    "5.2": 1, 
+    "2.8": 1, 
+    "5.6": 1, 
+    "4.4": 1
+   }, 
+   "species": "fv", 
+   "plaza_name": "FV7G12640", 
+   "anchor": 0
+  }, 
+  {
+   "id": "Cre06.g278199", 
+   "clusters": {
+    "0": 0, 
+    "4.8": 0, 
+    "2.0": 0, 
+    "6.0": 0, 
+    "4.0": 0, 
+    "0.8": 0, 
+    "1.6": 0, 
+    "3.2": 0, 
+    "2.4": 0, 
+    "1.2": 0, 
+    "0.4": 0, 
+    "6.8": 0, 
+    "7.2": 0, 
+    "8.0": 0, 
+    "7.6": 0, 
+    "3.6": 0, 
+    "6.4": 0, 
+    "5.2": 0, 
+    "2.8": 0, 
+    "5.6": 0, 
+    "4.4": 0
+   }, 
+   "species": "cr", 
+   "plaza_name": "CR06G07580", 
+   "anchor": 0
+  }, 
+  {
+   "id": "Thecc1EG005633", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 2, 
+    "2.0": 2, 
+    "6.0": 2, 
+    "4.0": 2, 
+    "0.8": 1, 
+    "1.6": 2, 
+    "3.2": 2, 
+    "2.4": 2, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 2, 
+    "7.2": 2, 
+    "8.0": 2, 
+    "7.6": 2, 
+    "3.6": 2, 
+    "6.4": 2, 
+    "5.2": 2, 
+    "2.8": 2, 
+    "5.6": 2, 
+    "4.4": 2
+   }, 
+   "species": "ta", 
+   "plaza_name": "TC0001G38310", 
+   "anchor": 0
+  }, 
+  {
+   "id": "30174.m008796", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 1, 
+    "2.0": 1, 
+    "6.0": 1, 
+    "4.0": 2, 
+    "0.8": 1, 
+    "1.6": 2, 
+    "3.2": 2, 
+    "2.4": 1, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 1, 
+    "7.2": 1, 
+    "8.0": 1, 
+    "7.6": 1, 
+    "3.6": 2, 
+    "6.4": 1, 
+    "5.2": 1, 
+    "2.8": 2, 
+    "5.6": 1, 
+    "4.4": 2
+   }, 
+   "species": "rc", 
+   "plaza_name": "RC30174G00520", 
+   "anchor": 0
+  }, 
+  {
+   "id": "AT2G44990", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 2, 
+    "2.0": 2, 
+    "6.0": 2, 
+    "4.0": 2, 
+    "0.8": 1, 
+    "1.6": 2, 
+    "3.2": 2, 
+    "2.4": 2, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 2, 
+    "7.2": 2, 
+    "8.0": 2, 
+    "7.6": 2, 
+    "3.6": 2, 
+    "6.4": 2, 
+    "5.2": 2, 
+    "2.8": 2, 
+    "5.6": 2, 
+    "4.4": 2
+   }, 
+   "species": "at", 
+   "plaza_name": "AT2G44990", 
+   "anchor": 0
+  }, 
+  {
+   "id": "Glyma.09G130700", 
+   "clusters": {
+    "0": 0, 
+    "4.8": 0, 
+    "2.0": 0, 
+    "6.0": 0, 
+    "4.0": 0, 
+    "0.8": 0, 
+    "1.6": 0, 
+    "3.2": 0, 
+    "2.4": 0, 
+    "1.2": 0, 
+    "0.4": 0, 
+    "6.8": 0, 
+    "7.2": 0, 
+    "8.0": 0, 
+    "7.6": 0, 
+    "3.6": 0, 
+    "6.4": 0, 
+    "5.2": 0, 
+    "2.8": 0, 
+    "5.6": 0, 
+    "4.4": 0
+   }, 
+   "species": "gm", 
+   "plaza_name": "GM19G11045", 
+   "anchor": 0
+  }, 
+  {
+   "id": "GRMZM2G158657", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 2, 
+    "2.0": 2, 
+    "6.0": 2, 
+    "4.0": 2, 
+    "0.8": 1, 
+    "1.6": 2, 
+    "3.2": 2, 
+    "2.4": 2, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 2, 
+    "7.2": 2, 
+    "8.0": 2, 
+    "7.6": 2, 
+    "3.6": 2, 
+    "6.4": 2, 
+    "5.2": 2, 
+    "2.8": 2, 
+    "5.6": 2, 
+    "4.4": 2
+   }, 
+   "species": "zm", 
+   "plaza_name": "ZM02G07650", 
+   "anchor": 0
+  }, 
+  {
+   "id": "scaffold00111.9", 
+   "clusters": {
+    "0": 1, 
+    "4.8": 2, 
+    "2.0": 2, 
+    "6.0": 2, 
+    "4.0": 2, 
+    "0.8": 1, 
+    "1.6": 2, 
+    "3.2": 2, 
+    "2.4": 2, 
+    "1.2": 1, 
+    "0.4": 1, 
+    "6.8": 2, 
+    "7.2": 2, 
+    "8.0": 2, 
+    "7.6": 2, 
+    "3.6": 2, 
+    "6.4": 2, 
+    "5.2": 2, 
+    "2.8": 2, 
+    "5.6": 2, 
+    "4.4": 2
+   }, 
+   "species": "ar", 
+   "plaza_name": "ATR_00111G00090", 
+   "anchor": 0
+  }
+ ], 
+ "tree": "((Cre12.g488350:0.60562,(Cre16.g657750:1.36368,(Cre09.g395362:0.76618,Cre06.g278199:1.00851)0.435:0.06728)0.886:0.12042)1:0.478745,(Phpat.006G080000:0.6252,((Glyma.09G130700:2.17094,(LOC_Os04g46470:0.11864,GRMZM2G158657:0.09643)0.094:0.25917)0.297:0.0159,(scaffold00111.9:0.37724,(GSVIVT01018217001:0.16482,((Brara.D02722:0.04034,(16053913:0.01839,AT2G44990:0.06007)0.8:0.01606)1:0.25875,(((Potri.014G056800:0.08107,30174.m008796:0.14992)0.993:0.05947,(evm.TU.supercontig_22.7:0.19245,((Solyc01g090660.2:0.01816,PGSC0003DMC400045162:0.00837)1:0.2347,(Gorai.008G107600:0.11787,Thecc1EG005633:0.0658)0.998:0.05716)0.953:0.03313)0.265:0.01081)0.407:0.02267,((Medtr7g045370:0.15834,(Glyma.U016700:0.02631,Glyma.01G073200:0.03035)0.999:0.07182)1:0.16652,(MDP0000197409:0.11423,(mrna04863:0.0674,MDP0000139334:0.07274)0.889:0.05756)0.996:0.07774)0.583:0.03116)0.823:0.04711)0.742:0.03859)0.952:0.06581)0.957:0.08634)0.874:0.12262)1:0.478745);", 
+ "links": [
+  {
+   "distance": 0.50941, 
+   "target": "Brara.D02722", 
+   "source": "Potri.014G056800"
+  }, 
+  {
+   "distance": 0.51923, 
+   "target": "Medtr7g045370", 
+   "source": "Potri.014G056800"
+  }, 
+  {
+   "distance": 0.3438, 
+   "target": "evm.TU.supercontig_22.7", 
+   "source": "Potri.014G056800"
+  }, 
+  {
+   "distance": 0.41373000000000004, 
+   "ka": "0.2005", 
+   "target": "GSVIVT01018217001", 
+   "evalue": "0.0", 
+   "block_score": "673.0", 
+   "ks": "2.5748", 
+   "source": "Potri.014G056800"
+  }, 
+  {
+   "distance": 0.43733999999999995, 
+   "ka": "0.2227", 
+   "target": "Solyc01g090660.2", 
+   "evalue": "0.0", 
+   "block_score": "783.0", 
+   "ks": "1.6603", 
+   "source": "Potri.014G056800"
+  }, 
+  {
+   "distance": 0.46305999999999997, 
+   "target": "Glyma.01G073200", 
+   "source": "Potri.014G056800"
+  }, 
+  {
+   "distance": 0.3863400000000001, 
+   "target": "MDP0000197409", 
+   "source": "Potri.014G056800"
+  }, 
+  {
+   "distance": 2.9652700000000003, 
+   "target": "Cre16.g657750", 
+   "source": "Potri.014G056800"
+  }, 
+  {
+   "distance": 2.0867899999999997, 
+   "target": "Cre12.g488350", 
+   "source": "Potri.014G056800"
+  }, 
+  {
+   "distance": 0.35951, 
+   "ka": "0.1692", 
+   "target": "Gorai.008G107600", 
+   "evalue": "0.0", 
+   "block_score": "216.0", 
+   "ks": "1.6634", 
+   "source": "Potri.014G056800"
+  }, 
+  {
+   "distance": 0.40241, 
+   "target": "MDP0000139334", 
+   "source": "Potri.014G056800"
+  }, 
+  {
+   "distance": 0.42755, 
+   "ka": "0.2186", 
+   "target": "PGSC0003DMC400045162", 
+   "evalue": "0.0", 
+   "block_score": "449.0", 
+   "ks": "2.1932", 
+   "source": "Potri.014G056800"
+  }, 
+  {
+   "distance": 2.4350499999999995, 
+   "target": "Cre09.g395362", 
+   "source": "Potri.014G056800"
+  }, 
+  {
+   "distance": 0.5035200000000001, 
+   "ka": "0.2456", 
+   "target": "16053913", 
+   "evalue": "0.0", 
+   "block_score": "404.0", 
+   "ks": "3.6142", 
+   "source": "Potri.014G056800"
+  }, 
+  {
+   "distance": 1.14888, 
+   "target": "Phpat.006G080000", 
+   "source": "Potri.014G056800"
+  }, 
+  {
+   "distance": 0.79477, 
+   "ka": "0.0", 
+   "target": "LOC_Os04g46470", 
+   "evalue": "0.0", 
+   "block_score": "357.0", 
+   "ks": "0.0", 
+   "source": "Potri.014G056800"
+  }, 
+  {
+   "distance": 0.45902000000000004, 
+   "target": "Glyma.U016700", 
+   "source": "Potri.014G056800"
+  }, 
+  {
+   "distance": 0.39707, 
+   "ka": "0.1992", 
+   "target": "mrna04863", 
+   "evalue": "0.0", 
+   "block_score": "693.0", 
+   "ks": "1.9491", 
+   "source": "Potri.014G056800"
+  }, 
+  {
+   "distance": 2.6773799999999994, 
+   "target": "Cre06.g278199", 
+   "source": "Potri.014G056800"
+  }, 
+  {
+   "distance": 0.69196, 
+   "ka": "0.0", 
+   "target": "scaffold00111.9", 
+   "evalue": "0.0", 
+   "block_score": "385.0", 
+   "ks": "0.0", 
+   "source": "Potri.014G056800"
+  }, 
+  {
+   "distance": 0.23099, 
+   "ka": "0.1234", 
+   "target": "30174.m008796", 
+   "evalue": "0.0", 
+   "block_score": "1343.0", 
+   "ks": "1.0493", 
+   "source": "Potri.014G056800"
+  }, 
+  {
+   "distance": 0.5452, 
+   "ka": "0.0", 
+   "target": "AT2G44990", 
+   "evalue": "0.0", 
+   "block_score": "445.0", 
+   "ks": "0.0", 
+   "source": "Potri.014G056800"
+  }, 
+  {
+   "distance": 2.5879, 
+   "target": "Glyma.09G130700", 
+   "source": "Potri.014G056800"
+  }, 
+  {
+   "distance": 0.77256, 
+   "ka": "0.3726", 
+   "target": "GRMZM2G158657", 
+   "evalue": "0.0", 
+   "block_score": "204.0", 
+   "ks": "0.0", 
+   "source": "Potri.014G056800"
+  }, 
+  {
+   "distance": 0.30744, 
+   "ka": "0.1258", 
+   "target": "Thecc1EG005633", 
+   "evalue": "0.0", 
+   "block_score": "1326.0", 
+   "ks": "1.5268", 
+   "source": "Potri.014G056800"
+  }, 
+  {
+   "distance": 0.70222, 
+   "target": "Medtr7g045370", 
+   "source": "Brara.D02722"
+  }, 
+  {
+   "distance": 0.5721299999999999, 
+   "target": "evm.TU.supercontig_22.7", 
+   "source": "Brara.D02722"
+  }, 
+  {
+   "distance": 0.5025, 
+   "ka": "0.0", 
+   "target": "GSVIVT01018217001", 
+   "evalue": "0.0", 
+   "block_score": "979.0", 
+   "ks": "0.0", 
+   "source": "Brara.D02722"
+  }, 
+  {
+   "distance": 0.6656699999999999, 
+   "ka": "0.0", 
+   "target": "Solyc01g090660.2", 
+   "evalue": "0.0", 
+   "block_score": "783.0", 
+   "ks": "0.0", 
+   "source": "Brara.D02722"
+  }, 
+  {
+   "distance": 0.6460499999999999, 
+   "target": "Glyma.01G073200", 
+   "source": "Brara.D02722"
+  }, 
+  {
+   "distance": 0.5693299999999999, 
+   "target": "MDP0000197409", 
+   "source": "Brara.D02722"
+  }, 
+  {
+   "distance": 3.0540399999999996, 
+   "target": "Cre16.g657750", 
+   "source": "Brara.D02722"
+  }, 
+  {
+   "distance": 2.17556, 
+   "target": "Cre12.g488350", 
+   "source": "Brara.D02722"
+  }, 
+  {
+   "distance": 0.5878399999999999, 
+   "target": "Gorai.008G107600", 
+   "source": "Brara.D02722"
+  }, 
+  {
+   "distance": 0.5853999999999999, 
+   "target": "MDP0000139334", 
+   "source": "Brara.D02722"
+  }, 
+  {
+   "distance": 0.6558799999999999, 
+   "ka": "0.3063", 
+   "target": "PGSC0003DMC400045162", 
+   "evalue": "0.0", 
+   "block_score": "342.0", 
+   "ks": "2.7282", 
+   "source": "Brara.D02722"
+  }, 
+  {
+   "distance": 2.5238199999999997, 
+   "target": "Cre09.g395362", 
+   "source": "Brara.D02722"
+  }, 
+  {
+   "distance": 0.07479000000000001, 
+   "ka": "0.0437", 
+   "target": "16053913", 
+   "evalue": "0.0", 
+   "block_score": "27059.0", 
+   "ks": "0.4368", 
+   "source": "Brara.D02722"
+  }, 
+  {
+   "distance": 1.2376500000000001, 
+   "target": "Phpat.006G080000", 
+   "source": "Brara.D02722"
+  }, 
+  {
+   "distance": 0.88354, 
+   "target": "LOC_Os04g46470", 
+   "source": "Brara.D02722"
+  }, 
+  {
+   "distance": 0.6420099999999999, 
+   "target": "Glyma.U016700", 
+   "source": "Brara.D02722"
+  }, 
+  {
+   "distance": 0.5800599999999999, 
+   "ka": "0.2581", 
+   "target": "mrna04863", 
+   "evalue": "0.0", 
+   "block_score": "380.0", 
+   "ks": "2.7637", 
+   "source": "Brara.D02722"
+  }, 
+  {
+   "distance": 2.7661499999999997, 
+   "target": "Cre06.g278199", 
+   "source": "Brara.D02722"
+  }, 
+  {
+   "distance": 0.78073, 
+   "ka": "0.3668", 
+   "target": "scaffold00111.9", 
+   "evalue": "0.0", 
+   "block_score": "279.0", 
+   "ks": "0.0", 
+   "source": "Brara.D02722"
+  }, 
+  {
+   "distance": 0.5782599999999999, 
+   "ka": "0.2694", 
+   "target": "30174.m008796", 
+   "evalue": "0.0", 
+   "block_score": "2052.0", 
+   "ks": "2.6378", 
+   "source": "Brara.D02722"
+  }, 
+  {
+   "distance": 0.11647, 
+   "ka": "0.0677", 
+   "target": "AT2G44990", 
+   "evalue": "0.0", 
+   "block_score": "37626.0", 
+   "ks": "0.4356", 
+   "source": "Brara.D02722"
+  }, 
+  {
+   "distance": 2.6766699999999997, 
+   "target": "Glyma.09G130700", 
+   "source": "Brara.D02722"
+  }, 
+  {
+   "distance": 0.86133, 
+   "target": "GRMZM2G158657", 
+   "source": "Brara.D02722"
+  }, 
+  {
+   "distance": 0.53577, 
+   "ka": "0.2485", 
+   "target": "Thecc1EG005633", 
+   "evalue": "0.0", 
+   "block_score": "2293.0", 
+   "ks": "3.5301", 
+   "source": "Brara.D02722"
+  }, 
+  {
+   "distance": 0.58195, 
+   "target": "evm.TU.supercontig_22.7", 
+   "source": "Medtr7g045370"
+  }, 
+  {
+   "distance": 0.60654, 
+   "target": "GSVIVT01018217001", 
+   "source": "Medtr7g045370"
+  }, 
+  {
+   "distance": 0.6754899999999999, 
+   "target": "Solyc01g090660.2", 
+   "source": "Medtr7g045370"
+  }, 
+  {
+   "distance": 0.26051, 
+   "target": "Glyma.01G073200", 
+   "source": "Medtr7g045370"
+  }, 
+  {
+   "distance": 0.51683, 
+   "target": "MDP0000197409", 
+   "source": "Medtr7g045370"
+  }, 
+  {
+   "distance": 3.1580799999999996, 
+   "target": "Cre16.g657750", 
+   "source": "Medtr7g045370"
+  }, 
+  {
+   "distance": 2.2796, 
+   "target": "Cre12.g488350", 
+   "source": "Medtr7g045370"
+  }, 
+  {
+   "distance": 0.59766, 
+   "target": "Gorai.008G107600", 
+   "source": "Medtr7g045370"
+  }, 
+  {
+   "distance": 0.5329, 
+   "target": "MDP0000139334", 
+   "source": "Medtr7g045370"
+  }, 
+  {
+   "distance": 0.6657, 
+   "target": "PGSC0003DMC400045162", 
+   "source": "Medtr7g045370"
+  }, 
+  {
+   "distance": 2.6278599999999996, 
+   "target": "Cre09.g395362", 
+   "source": "Medtr7g045370"
+  }, 
+  {
+   "distance": 0.6963299999999999, 
+   "target": "16053913", 
+   "source": "Medtr7g045370"
+  }, 
+  {
+   "distance": 1.3416899999999998, 
+   "target": "Phpat.006G080000", 
+   "source": "Medtr7g045370"
+  }, 
+  {
+   "distance": 0.98758, 
+   "target": "LOC_Os04g46470", 
+   "source": "Medtr7g045370"
+  }, 
+  {
+   "distance": 0.25647, 
+   "target": "Glyma.U016700", 
+   "source": "Medtr7g045370"
+  }, 
+  {
+   "distance": 0.52756, 
+   "target": "mrna04863", 
+   "source": "Medtr7g045370"
+  }, 
+  {
+   "distance": 2.8701899999999996, 
+   "target": "Cre06.g278199", 
+   "source": "Medtr7g045370"
+  }, 
+  {
+   "distance": 0.5455899999999999, 
+   "ka": "0.229", 
+   "target": "Thecc1EG005633", 
+   "evalue": "0.0", 
+   "block_score": "285.0", 
+   "ks": "1.8649", 
+   "source": "Medtr7g045370"
+  }, 
+  {
+   "distance": 0.5880799999999999, 
+   "ka": "0.272", 
+   "target": "30174.m008796", 
+   "evalue": "0.0", 
+   "block_score": "285.0", 
+   "ks": "2.9517", 
+   "source": "Medtr7g045370"
+  }, 
+  {
+   "distance": 0.7380099999999999, 
+   "target": "AT2G44990", 
+   "source": "Medtr7g045370"
+  }, 
+  {
+   "distance": 2.780709999999999, 
+   "target": "Glyma.09G130700", 
+   "source": "Medtr7g045370"
+  }, 
+  {
+   "distance": 0.9653700000000001, 
+   "target": "GRMZM2G158657", 
+   "source": "Medtr7g045370"
+  }, 
+  {
+   "distance": 0.8847700000000001, 
+   "target": "scaffold00111.9", 
+   "source": "Medtr7g045370"
+  }, 
+  {
+   "distance": 0.47645, 
+   "target": "GSVIVT01018217001", 
+   "source": "evm.TU.supercontig_22.7"
+  }, 
+  {
+   "distance": 0.47844, 
+   "target": "Solyc01g090660.2", 
+   "source": "evm.TU.supercontig_22.7"
+  }, 
+  {
+   "distance": 0.52578, 
+   "target": "Glyma.01G073200", 
+   "source": "evm.TU.supercontig_22.7"
+  }, 
+  {
+   "distance": 0.44906000000000007, 
+   "target": "MDP0000197409", 
+   "source": "evm.TU.supercontig_22.7"
+  }, 
+  {
+   "distance": 3.02799, 
+   "target": "Cre16.g657750", 
+   "source": "evm.TU.supercontig_22.7"
+  }, 
+  {
+   "distance": 2.14951, 
+   "target": "Cre12.g488350", 
+   "source": "evm.TU.supercontig_22.7"
+  }, 
+  {
+   "distance": 0.40061, 
+   "target": "Gorai.008G107600", 
+   "source": "evm.TU.supercontig_22.7"
+  }, 
+  {
+   "distance": 0.46513, 
+   "target": "MDP0000139334", 
+   "source": "evm.TU.supercontig_22.7"
+  }, 
+  {
+   "distance": 0.46865, 
+   "target": "PGSC0003DMC400045162", 
+   "source": "evm.TU.supercontig_22.7"
+  }, 
+  {
+   "distance": 2.4977699999999996, 
+   "target": "Cre09.g395362", 
+   "source": "evm.TU.supercontig_22.7"
+  }, 
+  {
+   "distance": 0.56624, 
+   "target": "16053913", 
+   "source": "evm.TU.supercontig_22.7"
+  }, 
+  {
+   "distance": 1.2116, 
+   "target": "Phpat.006G080000", 
+   "source": "evm.TU.supercontig_22.7"
+  }, 
+  {
+   "distance": 0.85749, 
+   "target": "LOC_Os04g46470", 
+   "source": "evm.TU.supercontig_22.7"
+  }, 
+  {
+   "distance": 0.52174, 
+   "target": "Glyma.U016700", 
+   "source": "evm.TU.supercontig_22.7"
+  }, 
+  {
+   "distance": 0.45979, 
+   "ka": "0.1924", 
+   "target": "mrna04863", 
+   "evalue": "0.0", 
+   "block_score": "326.0", 
+   "ks": "1.6081", 
+   "source": "evm.TU.supercontig_22.7"
+  }, 
+  {
+   "distance": 2.7400999999999995, 
+   "target": "Cre06.g278199", 
+   "source": "evm.TU.supercontig_22.7"
+  }, 
+  {
+   "distance": 0.34853999999999996, 
+   "target": "Thecc1EG005633", 
+   "source": "evm.TU.supercontig_22.7"
+  }, 
+  {
+   "distance": 0.41264999999999996, 
+   "target": "30174.m008796", 
+   "source": "evm.TU.supercontig_22.7"
+  }, 
+  {
+   "distance": 0.6079199999999999, 
+   "target": "AT2G44990", 
+   "source": "evm.TU.supercontig_22.7"
+  }, 
+  {
+   "distance": 2.65062, 
+   "target": "Glyma.09G130700", 
+   "source": "evm.TU.supercontig_22.7"
+  }, 
+  {
+   "distance": 0.83528, 
+   "target": "GRMZM2G158657", 
+   "source": "evm.TU.supercontig_22.7"
+  }, 
+  {
+   "distance": 0.75468, 
+   "target": "scaffold00111.9", 
+   "source": "evm.TU.supercontig_22.7"
+  }, 
+  {
+   "distance": 0.56999, 
+   "ka": "0.2332", 
+   "target": "Solyc01g090660.2", 
+   "evalue": "0.0", 
+   "block_score": "3232.0", 
+   "ks": "2.0917", 
+   "source": "GSVIVT01018217001"
+  }, 
+  {
+   "distance": 0.55037, 
+   "ka": "0.2532", 
+   "target": "Glyma.01G073200", 
+   "evalue": "0.0", 
+   "block_score": "224.0", 
+   "ks": "4.0714", 
+   "source": "GSVIVT01018217001"
+  }, 
+  {
+   "distance": 0.47365000000000007, 
+   "target": "MDP0000197409", 
+   "source": "GSVIVT01018217001"
+  }, 
+  {
+   "distance": 2.8811799999999996, 
+   "target": "Cre16.g657750", 
+   "source": "GSVIVT01018217001"
+  }, 
+  {
+   "distance": 2.0027, 
+   "target": "Cre12.g488350", 
+   "source": "GSVIVT01018217001"
+  }, 
+  {
+   "distance": 0.49216, 
+   "ka": "0.2241", 
+   "target": "Gorai.008G107600", 
+   "evalue": "0.0", 
+   "block_score": "1155.0", 
+   "ks": "2.838", 
+   "source": "GSVIVT01018217001"
+  }, 
+  {
+   "distance": 0.48972, 
+   "target": "MDP0000139334", 
+   "source": "GSVIVT01018217001"
+  }, 
+  {
+   "distance": 0.5602, 
+   "ka": "0.2276", 
+   "target": "PGSC0003DMC400045162", 
+   "evalue": "0.0", 
+   "block_score": "2760.0", 
+   "ks": "2.0055", 
+   "source": "GSVIVT01018217001"
+  }, 
+  {
+   "distance": 2.3509599999999997, 
+   "target": "Cre09.g395362", 
+   "source": "GSVIVT01018217001"
+  }, 
+  {
+   "distance": 0.49661, 
+   "ka": "0.262", 
+   "target": "16053913", 
+   "evalue": "0.0", 
+   "block_score": "1787.0", 
+   "ks": "-1.0", 
+   "source": "GSVIVT01018217001"
+  }, 
+  {
+   "distance": 1.06479, 
+   "target": "Phpat.006G080000", 
+   "source": "GSVIVT01018217001"
+  }, 
+  {
+   "distance": 0.71068, 
+   "ka": "0.0", 
+   "target": "LOC_Os04g46470", 
+   "evalue": "0.0", 
+   "block_score": "622.0", 
+   "ks": "0.0", 
+   "source": "GSVIVT01018217001"
+  }, 
+  {
+   "distance": 0.5463300000000001, 
+   "ka": "0.0", 
+   "target": "Glyma.U016700", 
+   "evalue": "0.0", 
+   "block_score": "359.0", 
+   "ks": "0.0", 
+   "source": "GSVIVT01018217001"
+  }, 
+  {
+   "distance": 0.48438, 
+   "ka": "0.2254", 
+   "target": "mrna04863", 
+   "evalue": "0.0", 
+   "block_score": "764.0", 
+   "ks": "1.4688", 
+   "source": "GSVIVT01018217001"
+  }, 
+  {
+   "distance": 2.59329, 
+   "target": "Cre06.g278199", 
+   "source": "GSVIVT01018217001"
+  }, 
+  {
+   "distance": 0.44009, 
+   "ka": "0.1899", 
+   "target": "Thecc1EG005633", 
+   "evalue": "0.0", 
+   "block_score": "2622.0", 
+   "ks": "2.628", 
+   "source": "GSVIVT01018217001"
+  }, 
+  {
+   "distance": 0.48258000000000006, 
+   "ka": "0.2173", 
+   "target": "30174.m008796", 
+   "evalue": "0.0", 
+   "block_score": "2699.0", 
+   "ks": "2.1305", 
+   "source": "GSVIVT01018217001"
+  }, 
+  {
+   "distance": 0.5382899999999999, 
+   "ka": "0.0", 
+   "target": "AT2G44990", 
+   "evalue": "0.0", 
+   "block_score": "1382.0", 
+   "ks": "0.0", 
+   "source": "GSVIVT01018217001"
+  }, 
+  {
+   "distance": 2.5038099999999996, 
+   "target": "Glyma.09G130700", 
+   "source": "GSVIVT01018217001"
+  }, 
+  {
+   "distance": 0.68847, 
+   "target": "GRMZM2G158657", 
+   "source": "GSVIVT01018217001"
+  }, 
+  {
+   "distance": 0.60787, 
+   "target": "scaffold00111.9", 
+   "source": "GSVIVT01018217001"
+  }, 
+  {
+   "distance": 0.61932, 
+   "target": "Glyma.01G073200", 
+   "source": "Solyc01g090660.2"
+  }, 
+  {
+   "distance": 0.5426, 
+   "target": "MDP0000197409", 
+   "source": "Solyc01g090660.2"
+  }, 
+  {
+   "distance": 3.12153, 
+   "target": "Cre16.g657750", 
+   "source": "Solyc01g090660.2"
+  }, 
+  {
+   "distance": 2.2430499999999998, 
+   "target": "Cre12.g488350", 
+   "source": "Solyc01g090660.2"
+  }, 
+  {
+   "distance": 0.42789, 
+   "ka": "0.2122", 
+   "target": "Gorai.008G107600", 
+   "evalue": "0.0", 
+   "block_score": "1242.0", 
+   "ks": "2.4519", 
+   "source": "Solyc01g090660.2"
+  }, 
+  {
+   "distance": 0.5586699999999999, 
+   "target": "MDP0000139334", 
+   "source": "Solyc01g090660.2"
+  }, 
+  {
+   "distance": 0.026529999999999998, 
+   "ka": "0.0149", 
+   "target": "PGSC0003DMC400045162", 
+   "evalue": "0.0", 
+   "block_score": "45624.0", 
+   "ks": "0.1476", 
+   "source": "Solyc01g090660.2"
+  }, 
+  {
+   "distance": 2.5913099999999996, 
+   "target": "Cre09.g395362", 
+   "source": "Solyc01g090660.2"
+  }, 
+  {
+   "distance": 0.6597799999999999, 
+   "ka": "0.0", 
+   "target": "16053913", 
+   "evalue": "0.0", 
+   "block_score": "1661.0", 
+   "ks": "0.0", 
+   "source": "Solyc01g090660.2"
+  }, 
+  {
+   "distance": 1.3051399999999997, 
+   "target": "Phpat.006G080000", 
+   "source": "Solyc01g090660.2"
+  }, 
+  {
+   "distance": 0.9510299999999999, 
+   "ka": "0.0", 
+   "target": "LOC_Os04g46470", 
+   "evalue": "0.0", 
+   "block_score": "508.0", 
+   "ks": "0.0", 
+   "source": "Solyc01g090660.2"
+  }, 
+  {
+   "distance": 0.6152799999999999, 
+   "ka": "0.2465", 
+   "target": "Glyma.U016700", 
+   "evalue": "0.0", 
+   "block_score": "427.0", 
+   "ks": "1.6101", 
+   "source": "Solyc01g090660.2"
+  }, 
+  {
+   "distance": 0.55333, 
+   "ka": "0.2452", 
+   "target": "mrna04863", 
+   "evalue": "0.0", 
+   "block_score": "1323.0", 
+   "ks": "2.3367", 
+   "source": "Solyc01g090660.2"
+  }, 
+  {
+   "distance": 2.83364, 
+   "target": "Cre06.g278199", 
+   "source": "Solyc01g090660.2"
+  }, 
+  {
+   "distance": 0.37581999999999993, 
+   "ka": "0.2008", 
+   "target": "Thecc1EG005633", 
+   "evalue": "0.0", 
+   "block_score": "3862.0", 
+   "ks": "2.2101", 
+   "source": "Solyc01g090660.2"
+  }, 
+  {
+   "distance": 0.50619, 
+   "ka": "0.2572", 
+   "target": "30174.m008796", 
+   "evalue": "0.0", 
+   "block_score": "5850.0", 
+   "ks": "1.7186", 
+   "source": "Solyc01g090660.2"
+  }, 
+  {
+   "distance": 0.7014599999999999, 
+   "ka": "0.326", 
+   "target": "AT2G44990", 
+   "evalue": "0.0", 
+   "block_score": "2798.0", 
+   "ks": "2.569", 
+   "source": "Solyc01g090660.2"
+  }, 
+  {
+   "distance": 2.74416, 
+   "target": "Glyma.09G130700", 
+   "source": "Solyc01g090660.2"
+  }, 
+  {
+   "distance": 0.92882, 
+   "target": "GRMZM2G158657", 
+   "source": "Solyc01g090660.2"
+  }, 
+  {
+   "distance": 0.84822, 
+   "target": "scaffold00111.9", 
+   "source": "Solyc01g090660.2"
+  }, 
+  {
+   "distance": 0.47673, 
+   "target": "MDP0000139334", 
+   "source": "Glyma.01G073200"
+  }, 
+  {
+   "distance": 0.46065999999999996, 
+   "target": "MDP0000197409", 
+   "source": "Glyma.01G073200"
+  }, 
+  {
+   "distance": 3.1019099999999997, 
+   "target": "Cre16.g657750", 
+   "source": "Glyma.01G073200"
+  }, 
+  {
+   "distance": 2.22343, 
+   "target": "Cre12.g488350", 
+   "source": "Glyma.01G073200"
+  }, 
+  {
+   "distance": 0.5414899999999999, 
+   "ka": "0.2363", 
+   "target": "Gorai.008G107600", 
+   "evalue": "0.0", 
+   "block_score": "211.0", 
+   "ks": "2.8692", 
+   "source": "Glyma.01G073200"
+  }, 
+  {
+   "distance": 0.60953, 
+   "target": "PGSC0003DMC400045162", 
+   "source": "Glyma.01G073200"
+  }, 
+  {
+   "distance": 2.57169, 
+   "target": "Cre09.g395362", 
+   "source": "Glyma.01G073200"
+  }, 
+  {
+   "distance": 0.64016, 
+   "target": "16053913", 
+   "source": "Glyma.01G073200"
+  }, 
+  {
+   "distance": 1.2855199999999998, 
+   "target": "Phpat.006G080000", 
+   "source": "Glyma.01G073200"
+  }, 
+  {
+   "distance": 0.93141, 
+   "target": "LOC_Os04g46470", 
+   "source": "Glyma.01G073200"
+  }, 
+  {
+   "distance": 0.05666, 
+   "ka": "0.0316", 
+   "target": "Glyma.U016700", 
+   "evalue": "0.0", 
+   "block_score": "495.0", 
+   "ks": "0.1756", 
+   "source": "Glyma.01G073200"
+  }, 
+  {
+   "distance": 0.47139, 
+   "ka": "0.221", 
+   "target": "mrna04863", 
+   "evalue": "0.0", 
+   "block_score": "281.0", 
+   "ks": "1.4626", 
+   "source": "Glyma.01G073200"
+  }, 
+  {
+   "distance": 2.81402, 
+   "target": "Cre06.g278199", 
+   "source": "Glyma.01G073200"
+  }, 
+  {
+   "distance": 0.48942, 
+   "ka": "0.219", 
+   "target": "Thecc1EG005633", 
+   "evalue": "0.0", 
+   "block_score": "306.0", 
+   "ks": "2.2995", 
+   "source": "Glyma.01G073200"
+  }, 
+  {
+   "distance": 0.53191, 
+   "ka": "0.2384", 
+   "target": "30174.m008796", 
+   "evalue": "0.0", 
+   "block_score": "232.0", 
+   "ks": "2.0231", 
+   "source": "Glyma.01G073200"
+  }, 
+  {
+   "distance": 0.6818399999999999, 
+   "target": "AT2G44990", 
+   "source": "Glyma.01G073200"
+  }, 
+  {
+   "distance": 2.7245399999999993, 
+   "target": "Glyma.09G130700", 
+   "source": "Glyma.01G073200"
+  }, 
+  {
+   "distance": 0.9092, 
+   "target": "GRMZM2G158657", 
+   "source": "Glyma.01G073200"
+  }, 
+  {
+   "distance": 0.8286, 
+   "target": "scaffold00111.9", 
+   "source": "Glyma.01G073200"
+  }, 
+  {
+   "distance": 3.0251899999999994, 
+   "target": "Cre16.g657750", 
+   "source": "MDP0000197409"
+  }, 
+  {
+   "distance": 2.1467099999999997, 
+   "target": "Cre12.g488350", 
+   "source": "MDP0000197409"
+  }, 
+  {
+   "distance": 0.46477000000000007, 
+   "target": "Gorai.008G107600", 
+   "source": "MDP0000197409"
+  }, 
+  {
+   "distance": 0.24453, 
+   "target": "MDP0000139334", 
+   "source": "MDP0000197409"
+  }, 
+  {
+   "distance": 0.53281, 
+   "target": "PGSC0003DMC400045162", 
+   "source": "MDP0000197409"
+  }, 
+  {
+   "distance": 2.49497, 
+   "target": "Cre09.g395362", 
+   "source": "MDP0000197409"
+  }, 
+  {
+   "distance": 0.5634399999999999, 
+   "target": "16053913", 
+   "source": "MDP0000197409"
+  }, 
+  {
+   "distance": 1.2088, 
+   "target": "Phpat.006G080000", 
+   "source": "MDP0000197409"
+  }, 
+  {
+   "distance": 0.8546900000000001, 
+   "target": "LOC_Os04g46470", 
+   "source": "MDP0000197409"
+  }, 
+  {
+   "distance": 0.45662, 
+   "target": "Glyma.U016700", 
+   "source": "MDP0000197409"
+  }, 
+  {
+   "distance": 0.23919, 
+   "target": "mrna04863", 
+   "source": "MDP0000197409"
+  }, 
+  {
+   "distance": 2.7373, 
+   "target": "Cre06.g278199", 
+   "source": "MDP0000197409"
+  }, 
+  {
+   "distance": 0.4127, 
+   "target": "Thecc1EG005633", 
+   "source": "MDP0000197409"
+  }, 
+  {
+   "distance": 0.45519000000000004, 
+   "target": "30174.m008796", 
+   "source": "MDP0000197409"
+  }, 
+  {
+   "distance": 0.6051199999999999, 
+   "target": "AT2G44990", 
+   "source": "MDP0000197409"
+  }, 
+  {
+   "distance": 2.6478199999999994, 
+   "target": "Glyma.09G130700", 
+   "source": "MDP0000197409"
+  }, 
+  {
+   "distance": 0.83248, 
+   "target": "GRMZM2G158657", 
+   "source": "MDP0000197409"
+  }, 
+  {
+   "distance": 0.75188, 
+   "target": "scaffold00111.9", 
+   "source": "MDP0000197409"
+  }, 
+  {
+   "distance": 2.0897200000000002, 
+   "target": "Cre12.g488350", 
+   "source": "Cre16.g657750"
+  }, 
+  {
+   "distance": 3.0437000000000003, 
+   "target": "Gorai.008G107600", 
+   "source": "Cre16.g657750"
+  }, 
+  {
+   "distance": 3.0412599999999994, 
+   "target": "MDP0000139334", 
+   "source": "Cre16.g657750"
+  }, 
+  {
+   "distance": 3.11174, 
+   "target": "PGSC0003DMC400045162", 
+   "source": "Cre16.g657750"
+  }, 
+  {
+   "distance": 2.19714, 
+   "target": "Cre09.g395362", 
+   "source": "Cre16.g657750"
+  }, 
+  {
+   "distance": 3.0481499999999997, 
+   "target": "16053913", 
+   "source": "Cre16.g657750"
+  }, 
+  {
+   "distance": 3.06679, 
+   "target": "Phpat.006G080000", 
+   "source": "Cre16.g657750"
+  }, 
+  {
+   "distance": 2.9579199999999997, 
+   "target": "LOC_Os04g46470", 
+   "source": "Cre16.g657750"
+  }, 
+  {
+   "distance": 3.09787, 
+   "target": "Glyma.U016700", 
+   "source": "Cre16.g657750"
+  }, 
+  {
+   "distance": 3.0359199999999995, 
+   "target": "mrna04863", 
+   "source": "Cre16.g657750"
+  }, 
+  {
+   "distance": 2.43947, 
+   "target": "Cre06.g278199", 
+   "source": "Cre16.g657750"
+  }, 
+  {
+   "distance": 2.9916300000000002, 
+   "target": "Thecc1EG005633", 
+   "source": "Cre16.g657750"
+  }, 
+  {
+   "distance": 3.03412, 
+   "target": "30174.m008796", 
+   "source": "Cre16.g657750"
+  }, 
+  {
+   "distance": 3.0898299999999996, 
+   "target": "AT2G44990", 
+   "source": "Cre16.g657750"
+  }, 
+  {
+   "distance": 4.75105, 
+   "target": "Glyma.09G130700", 
+   "source": "Cre16.g657750"
+  }, 
+  {
+   "distance": 2.93571, 
+   "target": "GRMZM2G158657", 
+   "source": "Cre16.g657750"
+  }, 
+  {
+   "distance": 3.02779, 
+   "target": "scaffold00111.9", 
+   "source": "Cre16.g657750"
+  }, 
+  {
+   "distance": 2.1652199999999997, 
+   "target": "Gorai.008G107600", 
+   "source": "Cre12.g488350"
+  }, 
+  {
+   "distance": 2.1627799999999997, 
+   "target": "MDP0000139334", 
+   "source": "Cre12.g488350"
+  }, 
+  {
+   "distance": 2.2332599999999996, 
+   "target": "PGSC0003DMC400045162", 
+   "source": "Cre12.g488350"
+  }, 
+  {
+   "distance": 1.5594999999999999, 
+   "target": "Cre09.g395362", 
+   "source": "Cre12.g488350"
+  }, 
+  {
+   "distance": 2.16967, 
+   "target": "16053913", 
+   "source": "Cre12.g488350"
+  }, 
+  {
+   "distance": 2.18831, 
+   "target": "Phpat.006G080000", 
+   "source": "Cre12.g488350"
+  }, 
+  {
+   "distance": 2.07944, 
+   "target": "LOC_Os04g46470", 
+   "source": "Cre12.g488350"
+  }, 
+  {
+   "distance": 2.2193899999999998, 
+   "target": "Glyma.U016700", 
+   "source": "Cre12.g488350"
+  }, 
+  {
+   "distance": 2.15744, 
+   "target": "mrna04863", 
+   "source": "Cre12.g488350"
+  }, 
+  {
+   "distance": 1.80183, 
+   "target": "Cre06.g278199", 
+   "source": "Cre12.g488350"
+  }, 
+  {
+   "distance": 2.11315, 
+   "target": "Thecc1EG005633", 
+   "source": "Cre12.g488350"
+  }, 
+  {
+   "distance": 2.15564, 
+   "target": "30174.m008796", 
+   "source": "Cre12.g488350"
+  }, 
+  {
+   "distance": 2.21135, 
+   "target": "AT2G44990", 
+   "source": "Cre12.g488350"
+  }, 
+  {
+   "distance": 3.8725699999999996, 
+   "target": "Glyma.09G130700", 
+   "source": "Cre12.g488350"
+  }, 
+  {
+   "distance": 2.0572299999999997, 
+   "target": "GRMZM2G158657", 
+   "source": "Cre12.g488350"
+  }, 
+  {
+   "distance": 2.14931, 
+   "target": "scaffold00111.9", 
+   "source": "Cre12.g488350"
+  }, 
+  {
+   "distance": 0.48084, 
+   "target": "MDP0000139334", 
+   "source": "Gorai.008G107600"
+  }, 
+  {
+   "distance": 0.41809999999999997, 
+   "ka": "0.2079", 
+   "target": "PGSC0003DMC400045162", 
+   "evalue": "0.0", 
+   "block_score": "1057.0", 
+   "ks": "2.4369", 
+   "source": "Gorai.008G107600"
+  }, 
+  {
+   "distance": 2.51348, 
+   "target": "Cre09.g395362", 
+   "source": "Gorai.008G107600"
+  }, 
+  {
+   "distance": 0.5819499999999999, 
+   "ka": "0.2621", 
+   "target": "16053913", 
+   "evalue": "0.0", 
+   "block_score": "630.0", 
+   "ks": "2.7824", 
+   "source": "Gorai.008G107600"
+  }, 
+  {
+   "distance": 1.22731, 
+   "target": "Phpat.006G080000", 
+   "source": "Gorai.008G107600"
+  }, 
+  {
+   "distance": 0.8732, 
+   "ka": "0.3964", 
+   "target": "LOC_Os04g46470", 
+   "evalue": "0.0", 
+   "block_score": "467.0", 
+   "ks": "0.0", 
+   "source": "Gorai.008G107600"
+  }, 
+  {
+   "distance": 0.53745, 
+   "ka": "0.2357", 
+   "target": "Glyma.U016700", 
+   "evalue": "0.0", 
+   "block_score": "228.0", 
+   "ks": "2.5916", 
+   "source": "Gorai.008G107600"
+  }, 
+  {
+   "distance": 0.4755, 
+   "ka": "0.2188", 
+   "target": "mrna04863", 
+   "evalue": "0.0", 
+   "block_score": "668.0", 
+   "ks": "2.4071", 
+   "source": "Gorai.008G107600"
+  }, 
+  {
+   "distance": 2.75581, 
+   "target": "Cre06.g278199", 
+   "source": "Gorai.008G107600"
+  }, 
+  {
+   "distance": 0.18367, 
+   "ka": "0.1004", 
+   "target": "Thecc1EG005633", 
+   "evalue": "0.0", 
+   "block_score": "1776.0", 
+   "ks": "0.7215", 
+   "source": "Gorai.008G107600"
+  }, 
+  {
+   "distance": 0.42835999999999996, 
+   "ka": "0.194", 
+   "target": "30174.m008796", 
+   "evalue": "0.0", 
+   "block_score": "919.0", 
+   "ks": "2.1732", 
+   "source": "Gorai.008G107600"
+  }, 
+  {
+   "distance": 0.6236299999999999, 
+   "ka": "0.29", 
+   "target": "AT2G44990", 
+   "evalue": "0.0", 
+   "block_score": "711.0", 
+   "ks": "3.6097", 
+   "source": "Gorai.008G107600"
+  }, 
+  {
+   "distance": 2.66633, 
+   "target": "Glyma.09G130700", 
+   "source": "Gorai.008G107600"
+  }, 
+  {
+   "distance": 0.85099, 
+   "target": "GRMZM2G158657", 
+   "source": "Gorai.008G107600"
+  }, 
+  {
+   "distance": 0.77039, 
+   "target": "scaffold00111.9", 
+   "source": "Gorai.008G107600"
+  }, 
+  {
+   "distance": 0.5488799999999999, 
+   "target": "PGSC0003DMC400045162", 
+   "source": "MDP0000139334"
+  }, 
+  {
+   "distance": 2.51104, 
+   "target": "Cre09.g395362", 
+   "source": "MDP0000139334"
+  }, 
+  {
+   "distance": 0.5795099999999999, 
+   "target": "16053913", 
+   "source": "MDP0000139334"
+  }, 
+  {
+   "distance": 1.2248700000000001, 
+   "target": "Phpat.006G080000", 
+   "source": "MDP0000139334"
+  }, 
+  {
+   "distance": 0.8707600000000001, 
+   "target": "LOC_Os04g46470", 
+   "source": "MDP0000139334"
+  }, 
+  {
+   "distance": 0.47268999999999994, 
+   "target": "Glyma.U016700", 
+   "source": "MDP0000139334"
+  }, 
+  {
+   "distance": 0.14014, 
+   "target": "mrna04863", 
+   "source": "MDP0000139334"
+  }, 
+  {
+   "distance": 2.75337, 
+   "target": "Cre06.g278199", 
+   "source": "MDP0000139334"
+  }, 
+  {
+   "distance": 0.42877000000000004, 
+   "target": "Thecc1EG005633", 
+   "source": "MDP0000139334"
+  }, 
+  {
+   "distance": 0.47125999999999996, 
+   "target": "30174.m008796", 
+   "source": "MDP0000139334"
+  }, 
+  {
+   "distance": 0.6211899999999999, 
+   "target": "AT2G44990", 
+   "source": "MDP0000139334"
+  }, 
+  {
+   "distance": 2.6638899999999994, 
+   "target": "Glyma.09G130700", 
+   "source": "MDP0000139334"
+  }, 
+  {
+   "distance": 0.84855, 
+   "target": "GRMZM2G158657", 
+   "source": "MDP0000139334"
+  }, 
+  {
+   "distance": 0.7679500000000001, 
+   "target": "scaffold00111.9", 
+   "source": "MDP0000139334"
+  }, 
+  {
+   "distance": 2.58152, 
+   "target": "Cre09.g395362", 
+   "source": "PGSC0003DMC400045162"
+  }, 
+  {
+   "distance": 0.6499899999999998, 
+   "ka": "0.301", 
+   "target": "16053913", 
+   "evalue": "0.0", 
+   "block_score": "1883.0", 
+   "ks": "-1.0", 
+   "source": "PGSC0003DMC400045162"
+  }, 
+  {
+   "distance": 1.2953499999999998, 
+   "target": "Phpat.006G080000", 
+   "source": "PGSC0003DMC400045162"
+  }, 
+  {
+   "distance": 0.94124, 
+   "ka": "0.0", 
+   "target": "LOC_Os04g46470", 
+   "evalue": "0.0", 
+   "block_score": "337.0", 
+   "ks": "0.0", 
+   "source": "PGSC0003DMC400045162"
+  }, 
+  {
+   "distance": 0.60549, 
+   "ka": "0.2458", 
+   "target": "Glyma.U016700", 
+   "evalue": "0.0", 
+   "block_score": "382.0", 
+   "ks": "1.6025", 
+   "source": "PGSC0003DMC400045162"
+  }, 
+  {
+   "distance": 0.54354, 
+   "ka": "0.2297", 
+   "target": "mrna04863", 
+   "evalue": "0.0", 
+   "block_score": "1110.0", 
+   "ks": "2.1699", 
+   "source": "PGSC0003DMC400045162"
+  }, 
+  {
+   "distance": 2.8238499999999997, 
+   "target": "Cre06.g278199", 
+   "source": "PGSC0003DMC400045162"
+  }, 
+  {
+   "distance": 0.36602999999999997, 
+   "ka": "0.2014", 
+   "target": "Thecc1EG005633", 
+   "evalue": "0.0", 
+   "block_score": "3877.0", 
+   "ks": "2.2308", 
+   "source": "PGSC0003DMC400045162"
+  }, 
+  {
+   "distance": 0.49639999999999995, 
+   "ka": "0.2275", 
+   "target": "30174.m008796", 
+   "evalue": "0.0", 
+   "block_score": "3012.0", 
+   "ks": "2.0053", 
+   "source": "PGSC0003DMC400045162"
+  }, 
+  {
+   "distance": 0.6916699999999999, 
+   "ka": "0.3244", 
+   "target": "AT2G44990", 
+   "evalue": "0.0", 
+   "block_score": "1536.0", 
+   "ks": "3.6751", 
+   "source": "PGSC0003DMC400045162"
+  }, 
+  {
+   "distance": 2.73437, 
+   "target": "Glyma.09G130700", 
+   "source": "PGSC0003DMC400045162"
+  }, 
+  {
+   "distance": 0.91903, 
+   "target": "GRMZM2G158657", 
+   "source": "PGSC0003DMC400045162"
+  }, 
+  {
+   "distance": 0.83843, 
+   "target": "scaffold00111.9", 
+   "source": "PGSC0003DMC400045162"
+  }, 
+  {
+   "distance": 2.51793, 
+   "target": "16053913", 
+   "source": "Cre09.g395362"
+  }, 
+  {
+   "distance": 2.5365699999999998, 
+   "target": "Phpat.006G080000", 
+   "source": "Cre09.g395362"
+  }, 
+  {
+   "distance": 2.4276999999999997, 
+   "target": "LOC_Os04g46470", 
+   "source": "Cre09.g395362"
+  }, 
+  {
+   "distance": 2.56765, 
+   "target": "Glyma.U016700", 
+   "source": "Cre09.g395362"
+  }, 
+  {
+   "distance": 2.5056999999999996, 
+   "target": "mrna04863", 
+   "source": "Cre09.g395362"
+  }, 
+  {
+   "distance": 1.77469, 
+   "target": "Cre06.g278199", 
+   "source": "Cre09.g395362"
+  }, 
+  {
+   "distance": 2.46141, 
+   "target": "Thecc1EG005633", 
+   "source": "Cre09.g395362"
+  }, 
+  {
+   "distance": 2.5039, 
+   "target": "30174.m008796", 
+   "source": "Cre09.g395362"
+  }, 
+  {
+   "distance": 2.5596099999999997, 
+   "target": "AT2G44990", 
+   "source": "Cre09.g395362"
+  }, 
+  {
+   "distance": 4.220829999999999, 
+   "target": "Glyma.09G130700", 
+   "source": "Cre09.g395362"
+  }, 
+  {
+   "distance": 2.4054899999999995, 
+   "target": "GRMZM2G158657", 
+   "source": "Cre09.g395362"
+  }, 
+  {
+   "distance": 2.49757, 
+   "target": "scaffold00111.9", 
+   "source": "Cre09.g395362"
+  }, 
+  {
+   "distance": 1.23176, 
+   "target": "Phpat.006G080000", 
+   "source": "16053913"
+  }, 
+  {
+   "distance": 0.87765, 
+   "ka": "0.4228", 
+   "target": "LOC_Os04g46470", 
+   "evalue": "0.0", 
+   "block_score": "283.0", 
+   "ks": "0.0", 
+   "source": "16053913"
+  }, 
+  {
+   "distance": 0.6361199999999999, 
+   "ka": "0.2774", 
+   "target": "Glyma.U016700", 
+   "evalue": "0.0", 
+   "block_score": "305.0", 
+   "ks": "0.0", 
+   "source": "16053913"
+  }, 
+  {
+   "distance": 0.57417, 
+   "ka": "0.2517", 
+   "target": "mrna04863", 
+   "evalue": "0.0", 
+   "block_score": "781.0", 
+   "ks": "3.1716", 
+   "source": "16053913"
+  }, 
+  {
+   "distance": 2.7602599999999997, 
+   "target": "Cre06.g278199", 
+   "source": "16053913"
+  }, 
+  {
+   "distance": 0.52988, 
+   "ka": "0.246", 
+   "target": "Thecc1EG005633", 
+   "evalue": "0.0", 
+   "block_score": "8163.0", 
+   "ks": "2.8985", 
+   "source": "16053913"
+  }, 
+  {
+   "distance": 0.5723699999999999, 
+   "ka": "0.2414", 
+   "target": "30174.m008796", 
+   "evalue": "0.0", 
+   "block_score": "4121.0", 
+   "ks": "-1.0", 
+   "source": "16053913"
+  }, 
+  {
+   "distance": 0.07846, 
+   "ka": "0.0485", 
+   "target": "AT2G44990", 
+   "evalue": "0.0", 
+   "block_score": "54203.0", 
+   "ks": "0.1841", 
+   "source": "16053913"
+  }, 
+  {
+   "distance": 2.6707799999999997, 
+   "target": "Glyma.09G130700", 
+   "source": "16053913"
+  }, 
+  {
+   "distance": 0.8554400000000001, 
+   "target": "GRMZM2G158657", 
+   "source": "16053913"
+  }, 
+  {
+   "distance": 0.7748400000000001, 
+   "target": "scaffold00111.9", 
+   "source": "16053913"
+  }, 
+  {
+   "distance": 1.14153, 
+   "target": "LOC_Os04g46470", 
+   "source": "Phpat.006G080000"
+  }, 
+  {
+   "distance": 1.28148, 
+   "target": "Glyma.U016700", 
+   "source": "Phpat.006G080000"
+  }, 
+  {
+   "distance": 1.21953, 
+   "target": "mrna04863", 
+   "source": "Phpat.006G080000"
+  }, 
+  {
+   "distance": 2.7789, 
+   "target": "Cre06.g278199", 
+   "source": "Phpat.006G080000"
+  }, 
+  {
+   "distance": 1.2114, 
+   "target": "scaffold00111.9", 
+   "source": "Phpat.006G080000"
+  }, 
+  {
+   "distance": 1.21773, 
+   "target": "30174.m008796", 
+   "source": "Phpat.006G080000"
+  }, 
+  {
+   "distance": 1.27344, 
+   "target": "AT2G44990", 
+   "source": "Phpat.006G080000"
+  }, 
+  {
+   "distance": 2.9346599999999996, 
+   "target": "Glyma.09G130700", 
+   "source": "Phpat.006G080000"
+  }, 
+  {
+   "distance": 1.11932, 
+   "target": "GRMZM2G158657", 
+   "source": "Phpat.006G080000"
+  }, 
+  {
+   "distance": 1.1752399999999998, 
+   "target": "Thecc1EG005633", 
+   "source": "Phpat.006G080000"
+  }, 
+  {
+   "distance": 0.92737, 
+   "target": "Glyma.U016700", 
+   "source": "LOC_Os04g46470"
+  }, 
+  {
+   "distance": 0.86542, 
+   "ka": "0.379", 
+   "target": "mrna04863", 
+   "evalue": "0.0", 
+   "block_score": "353.0", 
+   "ks": "3.9802", 
+   "source": "LOC_Os04g46470"
+  }, 
+  {
+   "distance": 2.6700299999999997, 
+   "target": "Cre06.g278199", 
+   "source": "LOC_Os04g46470"
+  }, 
+  {
+   "distance": 0.8211299999999999, 
+   "ka": "0.3677", 
+   "target": "Thecc1EG005633", 
+   "evalue": "0.0", 
+   "block_score": "825.0", 
+   "ks": "0.0", 
+   "source": "LOC_Os04g46470"
+  }, 
+  {
+   "distance": 0.86362, 
+   "ka": "0.3801", 
+   "target": "30174.m008796", 
+   "evalue": "0.0", 
+   "block_score": "496.0", 
+   "ks": "0.0", 
+   "source": "LOC_Os04g46470"
+  }, 
+  {
+   "distance": 0.9193300000000001, 
+   "target": "AT2G44990", 
+   "source": "LOC_Os04g46470"
+  }, 
+  {
+   "distance": 2.54875, 
+   "target": "Glyma.09G130700", 
+   "source": "LOC_Os04g46470"
+  }, 
+  {
+   "distance": 0.21506999999999998, 
+   "target": "GRMZM2G158657", 
+   "source": "LOC_Os04g46470"
+  }, 
+  {
+   "distance": 0.85729, 
+   "target": "scaffold00111.9", 
+   "source": "LOC_Os04g46470"
+  }, 
+  {
+   "distance": 0.46735000000000004, 
+   "ka": "0.2182", 
+   "target": "mrna04863", 
+   "evalue": "0.0", 
+   "block_score": "368.0", 
+   "ks": "1.4649", 
+   "source": "Glyma.U016700"
+  }, 
+  {
+   "distance": 2.80998, 
+   "target": "Cre06.g278199", 
+   "source": "Glyma.U016700"
+  }, 
+  {
+   "distance": 0.48538, 
+   "ka": "0.2166", 
+   "target": "Thecc1EG005633", 
+   "evalue": "0.0", 
+   "block_score": "453.0", 
+   "ks": "2.372", 
+   "source": "Glyma.U016700"
+  }, 
+  {
+   "distance": 0.52787, 
+   "ka": "0.23", 
+   "target": "30174.m008796", 
+   "evalue": "0.0", 
+   "block_score": "385.0", 
+   "ks": "1.9828", 
+   "source": "Glyma.U016700"
+  }, 
+  {
+   "distance": 0.6777999999999998, 
+   "ka": "0.3043", 
+   "target": "AT2G44990", 
+   "evalue": "0.0", 
+   "block_score": "306.0", 
+   "ks": "0.0", 
+   "source": "Glyma.U016700"
+  }, 
+  {
+   "distance": 2.7204999999999995, 
+   "target": "Glyma.09G130700", 
+   "source": "Glyma.U016700"
+  }, 
+  {
+   "distance": 0.90516, 
+   "target": "GRMZM2G158657", 
+   "source": "Glyma.U016700"
+  }, 
+  {
+   "distance": 0.8245600000000001, 
+   "target": "scaffold00111.9", 
+   "source": "Glyma.U016700"
+  }, 
+  {
+   "distance": 2.7480299999999995, 
+   "target": "Cre06.g278199", 
+   "source": "mrna04863"
+  }, 
+  {
+   "distance": 0.42343000000000003, 
+   "ka": "0.1912", 
+   "target": "Thecc1EG005633", 
+   "evalue": "0.0", 
+   "block_score": "1679.0", 
+   "ks": "1.6188", 
+   "source": "mrna04863"
+  }, 
+  {
+   "distance": 0.46592000000000006, 
+   "ka": "0.2265", 
+   "target": "30174.m008796", 
+   "evalue": "0.0", 
+   "block_score": "1686.0", 
+   "ks": "1.6886", 
+   "source": "mrna04863"
+  }, 
+  {
+   "distance": 0.6158499999999999, 
+   "ka": "0.2752", 
+   "target": "AT2G44990", 
+   "evalue": "0.0", 
+   "block_score": "863.0", 
+   "ks": "3.7727", 
+   "source": "mrna04863"
+  }, 
+  {
+   "distance": 2.6585499999999995, 
+   "target": "Glyma.09G130700", 
+   "source": "mrna04863"
+  }, 
+  {
+   "distance": 0.84321, 
+   "target": "GRMZM2G158657", 
+   "source": "mrna04863"
+  }, 
+  {
+   "distance": 0.76261, 
+   "target": "scaffold00111.9", 
+   "source": "mrna04863"
+  }, 
+  {
+   "distance": 2.70374, 
+   "target": "Thecc1EG005633", 
+   "source": "Cre06.g278199"
+  }, 
+  {
+   "distance": 2.7462299999999997, 
+   "target": "30174.m008796", 
+   "source": "Cre06.g278199"
+  }, 
+  {
+   "distance": 2.8019399999999997, 
+   "target": "AT2G44990", 
+   "source": "Cre06.g278199"
+  }, 
+  {
+   "distance": 4.463159999999999, 
+   "target": "Glyma.09G130700", 
+   "source": "Cre06.g278199"
+  }, 
+  {
+   "distance": 2.64782, 
+   "target": "GRMZM2G158657", 
+   "source": "Cre06.g278199"
+  }, 
+  {
+   "distance": 2.7399, 
+   "target": "scaffold00111.9", 
+   "source": "Cre06.g278199"
+  }, 
+  {
+   "distance": 0.37628999999999996, 
+   "ka": "0.1701", 
+   "target": "30174.m008796", 
+   "evalue": "0.0", 
+   "block_score": "8651.0", 
+   "ks": "1.5014", 
+   "source": "Thecc1EG005633"
+  }, 
+  {
+   "distance": 0.5715599999999998, 
+   "ka": "0.2699", 
+   "target": "AT2G44990", 
+   "evalue": "0.0", 
+   "block_score": "8046.0", 
+   "ks": "2.1052", 
+   "source": "Thecc1EG005633"
+  }, 
+  {
+   "distance": 2.61426, 
+   "target": "Glyma.09G130700", 
+   "source": "Thecc1EG005633"
+  }, 
+  {
+   "distance": 0.79892, 
+   "target": "GRMZM2G158657", 
+   "source": "Thecc1EG005633"
+  }, 
+  {
+   "distance": 0.71832, 
+   "target": "scaffold00111.9", 
+   "source": "Thecc1EG005633"
+  }, 
+  {
+   "distance": 0.6140499999999999, 
+   "ka": "0.2619", 
+   "target": "AT2G44990", 
+   "evalue": "0.0", 
+   "block_score": "3316.0", 
+   "ks": "0.0", 
+   "source": "30174.m008796"
+  }, 
+  {
+   "distance": 2.6567499999999997, 
+   "target": "Glyma.09G130700", 
+   "source": "30174.m008796"
+  }, 
+  {
+   "distance": 0.84141, 
+   "target": "GRMZM2G158657", 
+   "source": "30174.m008796"
+  }, 
+  {
+   "distance": 0.7608100000000001, 
+   "target": "scaffold00111.9", 
+   "source": "30174.m008796"
+  }, 
+  {
+   "distance": 2.7124599999999996, 
+   "target": "Glyma.09G130700", 
+   "source": "AT2G44990"
+  }, 
+  {
+   "distance": 0.89712, 
+   "target": "GRMZM2G158657", 
+   "source": "AT2G44990"
+  }, 
+  {
+   "distance": 0.8165200000000001, 
+   "ka": "0.3945", 
+   "target": "scaffold00111.9", 
+   "evalue": "0.0", 
+   "block_score": "285.0", 
+   "ks": "4.4043", 
+   "source": "AT2G44990"
+  }, 
+  {
+   "distance": 2.6504199999999996, 
+   "target": "scaffold00111.9", 
+   "source": "Glyma.09G130700"
+  }, 
+  {
+   "distance": 2.52654, 
+   "target": "GRMZM2G158657", 
+   "source": "Glyma.09G130700"
+  }, 
+  {
+   "distance": 0.83508, 
+   "ka": "0.3988", 
+   "target": "scaffold00111.9", 
+   "evalue": "0.0", 
+   "block_score": "323.0", 
+   "ks": "0.0", 
+   "source": "GRMZM2G158657"
+  }
+ ]
+}

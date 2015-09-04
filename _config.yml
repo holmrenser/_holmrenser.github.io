@@ -1,0 +1,10 @@
+# Site settings
+title: SynNetwork
+description: > # this means to ignore newlines until "baseurl:"
+  This site: is a work in progress, visualizes Angiosperm gene family evolution,
+  combines phylogenetic trees with synteny-information. To read more, visit 'About'.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://holmrenser.github.io" # the base hostname & protocol for your site
+github_username:  holmrenser
+# Build settings
+markdown: kramdown
