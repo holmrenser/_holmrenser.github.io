@@ -6,7 +6,7 @@ permalink: /about/
 
 On this site I visualize the evolutionary history of plant genes involved in the symbiosis between legumes and rhizobium bacteria. More specifically, I use the *gene families* of these genes in 21 selected Angiosperms (For a full list of used plant species see bottom).  
 
-> I combine phylogenetic trees of the gene families with information on the synteny of the family's genes. 
+I combine phylogenetic trees of the gene families with information on the synteny of the family's genes. 
 
 Two genes are said to share synteny when they are found on the same location on the chromosome. Things like whole genome duplications, transpositions or tandem duplications can break up shared synteny, and are an important driver of evolution.
 
