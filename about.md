@@ -33,7 +33,7 @@ The actual data processing is done offline with a python script that wraps sever
 * Pre-render most visualization to improve load-time  
 * A search function  
 * Blast your favourite gene to the database  
-* All of the above will probably force me to move to an implementation in node.js, which is about time.  
+* All of the above will probably lead to an implementation in node.js
 
 ###Taxon sampling
 |Species|Family|Order|rhizobium symbiosis|
