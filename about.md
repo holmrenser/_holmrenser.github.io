@@ -50,6 +50,7 @@ The actual data processing is done offline with a python script that wraps sever
 | Glycine max | Fabaceae | Fabales | Yes |
 | Gossipium raimondii | Malvaceae | Malvales | No |
 | Lotus japonicum | Fabaceae | Fabales | Yes |
+| Malus domestica | Rosaceae | Rosales | No |
 | Medicago truncatula | Fabaceae | Fabales | Yes |
 | Oryza sativa | Poaceae | Poales | No |
 | Phaseolus vulgaris | Fabaceae | Fabales | Yes |
@@ -58,6 +59,7 @@ The actual data processing is done offline with a python script that wraps sever
 | Solanum lycopersicum | Solanaceae | Solanales | No |
 | Solanum tuberosum | Solanaceae | Solanales | No |
 | Theobroma cacao | Malvaceae | Malvales | No |
+| Vitis vinifera | Vitaceae | Vitales | No |
 | Zea mays | Poaceae | Poales | No |
 
 
