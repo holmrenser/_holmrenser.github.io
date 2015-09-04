@@ -6,7 +6,7 @@ permalink: /about/
 
 On this site I visualize the evolutionary history of plant genes involved in the symbiosis between legumes and rhizobium bacteria. More specifically, I use the *gene families* of these genes in 21 selected Angiosperms (For a full list of used plant species see bottom).  
 
-I combine phylogenetic trees of the gene families with information on the *synteny* of the family's genes. 
+> I combine phylogenetic trees of the gene families with information on the *synteny* of the family's genes. 
 
 Two genes are said to share synteny when they are found on the same location on the chromosome. Things like whole genome duplications, transpositions or tandem duplications can break up shared synteny, and are an important driver of evolution.
 
@@ -16,16 +16,16 @@ More importantly I can identify events like ancient transpositions or duplicatio
 
 Apart from searching for candidate genes, this site is a useful tool for visualizing very large gene families due to its interactive nature.
 
-Data sources:
+###Data sources:
 
 * For the gene family identification I use data from PLAZA  
 * For the Synteny information I use data from PGDD  
 
-Tools:
+###Tools:
 For visualization this site relies heavily on D3.js. Content management is done with Jekyll. jQuery and Bootstrap make my life easy in terms of javascript and css resepectively.
 The actual data processing is done offline with a python script that wraps several other tools: MCL for network clustering, mafft for multiple sequence alignment and FastTree for phylogenetic reconstruction.
 
-Wishlist:
+###Wishlist:
 
 * An algorithm to identify orthologs, paralogs, duplication, speciation and translocation. All of this while taking into account the species tree.  
 * A database to be able to scale to genome-wide studies.  
