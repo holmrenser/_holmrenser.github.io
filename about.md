@@ -14,7 +14,7 @@ By taking a network approach I am able to identify clusters of genes that share 
 
 More importantly I can identify events like ancient transpositions or duplications. In the context of rhizobium symbiosis: if I find a clade of legume genes that share synteny *only with other legume genes*, this is evidence for a transposition of the ancestral gene at the origin of the legumes. Such genes are interesting candidates for further studies.
 
-Apart from searching for candidate genes, this site is a useful tool for visualizing very large gene families due to its interactive nature.
+Apart from searching for candidate genes, this site is a useful tool for visualizing large gene families because of its interactive nature.
 
 ###Data sources:
 
