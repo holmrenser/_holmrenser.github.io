@@ -16,7 +16,7 @@ More importantly I can identify events like ancient transpositions or duplicatio
 
 Apart from searching for candidate genes, this site is a useful tool for visualizing large gene families because of its interactive nature.
 
-###Data sources:
+###Data sources
 
 * For the gene family identification I use data from PLAZA  
 * For the Synteny information I use data from PGDD  
@@ -25,7 +25,7 @@ Apart from searching for candidate genes, this site is a useful tool for visuali
 For visualization this site relies heavily on D3.js. Content management is done with Jekyll. jQuery and Bootstrap make my life easy in terms of javascript and css resepectively.
 The actual data processing is done offline with a python script that wraps several other tools: MCL for network clustering, mafft for multiple sequence alignment and FastTree for phylogenetic reconstruction.
 
-###Wishlist:
+###Wishlist
 
 * An algorithm to identify orthologs, paralogs, duplication, speciation and translocation. All of this while taking into account the species tree.  
 * A database to be able to scale to genome-wide studies.  
@@ -33,6 +33,18 @@ The actual data processing is done offline with a python script that wraps sever
 * Pre-render most visualization to improve load-time  
 * A search function  
 * Blast your favourite gene to the database  
-* All of the above will probably force me to move to an implementation in node.js, which is about time.   
+* All of the above will probably force me to move to an implementation in node.js, which is about time.  
+
+###Taxon sampling
+|Species|Family|Order|rhizobium symbiosis|
+|-------|------|-----|---|
+|Amborella trichopoda|Amborellaceae|Magnoliales|No|
+|Arabidopsis thaliana|Brassicaceae|Brassicales|No|
+|Arabidopsis lyrata|Brassicaceae|Brassicales|No|
+|Brassica rapa|Brassicaceae|Brassicales|No|
+
+
+
+
 
 
