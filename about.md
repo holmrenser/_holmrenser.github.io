@@ -45,7 +45,7 @@ The actual data processing is done offline with a python script that wraps sever
 | Arabidopsis lyrata | Brassicaceae | Brassicales | No | 
 | Brassica rapa | Brassicaceae | Brassicales | No | 
 | Carica papaya | Caricaceae | Brassicales | No |
-| Chlamydomonas reinhardtii | x | x | x |
+| Chlamydomonas reinhardtii | Chlamydomonadaceae | Chlamydomonadales | No |
 | Fragaria vesca | Rosaceae | Rosales | No |
 | Glycine max | Fabaceae | Fabales | Yes |
 | Gossipium raimondii | Malvaceae | Malvales | No |
