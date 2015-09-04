@@ -4,9 +4,6 @@ title: Meta
 permalink: /meta/
 ---
 Click column headers to sort.  
-test   
-
-
 
 <div class="container">
 <table id="metatable" class="table tablesorter table-striped">
