@@ -17,6 +17,11 @@ var deactivate = function(group) {
 	d3.selectAll('#' + group + " a").classed("not_use",true);
 };
 
+$(document).ready(function(){
+        $("#metatable").tablesorter();
+});
+
+
 $(window).load(function() {
 	var zoom = true;
 	var force = true;

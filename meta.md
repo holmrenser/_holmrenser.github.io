@@ -33,7 +33,3 @@ Click column headers to sort.
 </table>
 </div>
 
-<script>$(document).ready(function(){
-	$("#metatable").tablesorter();
-});
-</script>
