@@ -36,12 +36,12 @@ The actual data processing is done offline with a python script that wraps sever
 * All of the above will probably lead to an implementation in node.js
 
 ###Taxon sampling
-|Species|Family|Order|rhizobium symbiosis|
-|-------|------|-----|---|
-|Amborella trichopoda|Amborellaceae|Magnoliales|No|
-|Arabidopsis thaliana|Brassicaceae|Brassicales|No|
-|Arabidopsis lyrata|Brassicaceae|Brassicales|No|
-|Brassica rapa|Brassicaceae|Brassicales|No|
+| Species | Family | Order | rhizobium symbiosis |
+| ------- | ------ | ----- | --- | 
+ | Amborella trichopoda | Amborellaceae | Magnoliales | No | 
+ | Arabidopsis thaliana | Brassicaceae | Brassicales | No | 
+ | Arabidopsis lyrata | Brassicaceae | Brassicales | No | 
+ | Brassica rapa | Brassicaceae | Brassicales | No | 
 
 
 
