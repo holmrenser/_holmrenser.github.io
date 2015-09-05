@@ -231,9 +231,9 @@
     border: 1.5px solid $grey-color-light;
     @include padding(1px 1px 1px 1px);
     .node,.link ,.arc{
-      stroke: black;//$grey-color-dark;
+      stroke: $grey-color-dark;
       stroke-width: 1px;
-      //stroke-opacity: .8;
+      stroke-opacity: .8;
     }
     .link,.arc {
       fill:none;
