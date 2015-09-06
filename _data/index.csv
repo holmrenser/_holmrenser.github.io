@@ -1,5 +1,4 @@
 name,file,num_genes,num_links,num_in_cluster,num_in_nfc,num_clusters,max_cluster
-At_AP2,At_AP2.network.json,746,3198,571,304,51,175
 Gm_CCD7,Gm_CCD7.network.json,26,85,18,10,2,18
 Gm_CCD8,Gm_CCD8.network.json,29,118,17,12,2,17
 Gm_DMT1,Gm_DMT1.network.json,173,558,95,69,14,78
@@ -51,3 +50,5 @@ Mt_SICKLE,Mt_SICKLE.network.json,39,146,24,13,3,21
 Mt_SUNN,Mt_SUNN.network.json,3248,6154,1723,1550,205,1525
 Mt_SUT1_1,Mt_SUT1_1.network.json,146,269,80,64,11,66
 Mt_SUT4_1,Mt_SUT4_1.network.json,146,269,80,64,11,66
+At_AP2,At_AP2.network.json,746,3198,571,304,51,175
+
