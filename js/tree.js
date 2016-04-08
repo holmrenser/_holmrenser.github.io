@@ -20,7 +20,7 @@ var Tree = function() {
 							"lj":{"color":"#a50f15","altcolor":"#e6550d","name":"Lotus japonicum"}, //Fabaceae, Fabales, red
 							"rc":{"color":"#fb6a4a","altcolor":"#e6550d","name":"Ricinus communis"}, //Euphorbiaceae, Malpighiales, red
 							"zm":{"color":"#238b45","altcolor":"#636363","name":"Zea mays"}, //Poaceae, Poales, green
-							"ph":{"color":"#ef3b2c","altcolor":"#e6550d","name":"Phaseolus vulgaris"},//Fabaceae, Fabales, red
+							"ph":{"color":"#999999","altcolor":"#636363","name":"Phscomitrella patents"},//moss, grey
 							"md":{"color":"#fee0d2","altcolor":"#e6550d","name":"Malus domestica"},// Rosaceae, Rosales, red
 							"cr":{"color":"#ffffff","altcolor":"#636363","name":"Chlamydomonas reinhardtii"} 	};
 	var mapTree;
